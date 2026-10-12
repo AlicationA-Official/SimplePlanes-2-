@@ -1,0 +1,184 @@
+{
+  "dynamicPrefixEntries": [
+    {
+      "sourcePrefix": "Change view\nShortcut: ",
+      "valuePrefix": "切换视角\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Countermeasures\nShortcut: ",
+      "valuePrefix": "干扰物\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Current throttle\nShortcut: ",
+      "valuePrefix": "当前油门\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Cycle hidden parts view mode\nShortcut: ",
+      "valuePrefix": "切换隐藏零件显示模式\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Enter / Exit Aircraft\nShortcut: ",
+      "valuePrefix": "进入/离开飞机\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fire Guns\nShortcut: ",
+      "valuePrefix": "开火炮\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fire Weapon\nShortcut: ",
+      "valuePrefix": "发射武器\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Invert hidden parts\nShortcut: ",
+      "valuePrefix": "反转隐藏零件\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Move Part Tool\nSelect, move, and attach parts to build your craft.\nShortcut: ",
+      "valuePrefix": "移动零件工具\n选择、移动并连接零件，用来建造你的载具。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Paint Tool\nCustomize the colors and textures of your craft.\nShortcut: ",
+      "valuePrefix": "喷涂工具\n自定义载具的颜色和纹理。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Parking Brake\nShortcut: ",
+      "valuePrefix": "驻车制动\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Part Properties\nOpens the Part Properties menu for the selected part. Many parts have settings that can be customized.\nShortcut: ",
+      "valuePrefix": "零件属性\n打开所选零件的属性菜单。许多零件都有可自定义的设置。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Recenter view\nShortcut: ",
+      "valuePrefix": "视角回正\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Redo\nRe-apply the last action that was undone.\nShortcut: ",
+      "valuePrefix": "重做\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Reloads your craft at your current position.\nShortcut: ",
+      "valuePrefix": "在当前位置重新加载载具。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Reloads your craft at your starting position.\nShortcut: ",
+      "valuePrefix": "在起始位置重新加载载具。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Repositions and uprights your craft at your current position.\nShortcut: ",
+      "valuePrefix": "在当前位置重新摆正并扶正载具。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Rotate Part 90° around X-axis\nShortcut: ",
+      "valuePrefix": "绕 X 轴旋转零件 90°\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Rotate Part 90° around Y-axis\nShortcut: ",
+      "valuePrefix": "绕 Y 轴旋转零件 90°\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Rotate Part 90° around Z-axis\nShortcut: ",
+      "valuePrefix": "绕 Z 轴旋转零件 90°\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Rotate Tool\nPrecisely rotate parts using gizmos without altering part connections.\nShortcut: ",
+      "valuePrefix": "旋转工具\n使用变换控件精确旋转零件，且不会改变零件连接关系。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Saves the current craft.\nShortcut: ",
+      "valuePrefix": "保存当前载具。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Search Parts\nFind parts by name or ID, and manage their visibility.\nShortcut: ",
+      "valuePrefix": "搜索零件\n按名称或 ID 查找零件，并管理它们的可见性。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Select Next Target\nShortcut: ",
+      "valuePrefix": "选择下一个目标\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Show Activation Panel\nShortcut: ",
+      "valuePrefix": "显示激活面板\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Show Instrument Panel\nShortcut: ",
+      "valuePrefix": "显示仪表面板\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Show all hidden parts\nShortcut: ",
+      "valuePrefix": "显示所有隐藏零件\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Show/hide part in the designer\nShortcut: ",
+      "valuePrefix": "在设计器中显示/隐藏零件\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Toggle Cutting Outlines\nShow or hide outlines around cutting parts.\nShortcut: ",
+      "valuePrefix": "切换切割轮廓\n显示或隐藏切割零件周围的轮廓。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Toggle Decal Outlines\nShow or hide outlines around decal parts.\nShortcut: ",
+      "valuePrefix": "切换贴花轮廓\n显示或隐藏贴花零件周围的轮廓。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Toggle symmetry for the selected part and its connected parts.\nHold Shift to only affect the selected part and not its connected parts.\nShortcut: ",
+      "valuePrefix": "切换所选零件及其相连零件的对称。\n按住 Shift 时只影响所选零件，不影响相连零件。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Toggle the initial symmetry setting for new parts when they are added to the craft.\nShortcut: ",
+      "valuePrefix": "切换新零件的默认对称设置。\n影响之后添加到载具上的新零件。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Translate Tool\nPrecisely move parts using gizmos without altering part connections.\nShortcut: ",
+      "valuePrefix": "平移工具\n使用变换控件精确移动零件，且不会改变零件连接关系。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Undo\nReverse the last action performed.\nShortcut: ",
+      "valuePrefix": "撤销\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "View Tool\nView the craft without accidentally grabbing and moving parts.\nShortcut: ",
+      "valuePrefix": "查看工具\n查看载具时不会误抓取或移动零件。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Weld the selected parts so they to move together in the designer. Does not make them rigid in flight.\nShortcut: ",
+      "valuePrefix": "焊接所选零件，使它们在设计器中一起移动。不会让它们在飞行中变成刚体。\n快捷键：",
+      "valueSuffix": ""
+    }
+  ]
+}

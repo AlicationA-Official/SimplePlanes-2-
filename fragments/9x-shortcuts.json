@@ -1,0 +1,149 @@
+{
+  "page": "9x-shortcuts",
+  "entries": [
+    {
+      "key": "Change view\nShortcut: [not set]",
+      "value": "切换视角\n快捷键：[未设置]"
+    },
+    {
+      "key": "Countermeasures\nShortcut: [not set]",
+      "value": "干扰物\n快捷键：[未设置]"
+    },
+    {
+      "key": "Current throttle\nShortcut: [not set]",
+      "value": "当前油门\n快捷键：[未设置]"
+    },
+    {
+      "key": "Cycle hidden parts view mode\nShortcut: [not set]",
+      "value": "切换隐藏零件显示模式\n快捷键：[未设置]"
+    },
+    {
+      "key": "Enter / Exit Aircraft\nShortcut: [not set]",
+      "value": "进入/离开飞机\n快捷键：[未设置]"
+    },
+    {
+      "key": "Fire Guns\nShortcut: [not set]",
+      "value": "开火炮\n快捷键：[未设置]"
+    },
+    {
+      "key": "Fire Weapon\nShortcut: [not set]",
+      "value": "发射武器\n快捷键：[未设置]"
+    },
+    {
+      "key": "Invert hidden parts\nShortcut: [not set]",
+      "value": "反转隐藏零件\n快捷键：[未设置]"
+    },
+    {
+      "key": "Move Part Tool\nSelect, move, and attach parts to build your craft.\nShortcut: [not set]",
+      "value": "移动零件工具\n选择、移动并连接零件，用来建造你的载具。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Paint Tool\nCustomize the colors and textures of your craft.\nShortcut: [not set]",
+      "value": "喷涂工具\n自定义载具的颜色和纹理。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Parking Brake\nShortcut: [not set]",
+      "value": "驻车制动\n快捷键：[未设置]"
+    },
+    {
+      "key": "Part Properties\nOpens the Part Properties menu for the selected part. Many parts have settings that can be customized.\nShortcut: [not set]",
+      "value": "零件属性\n打开所选零件的属性菜单。许多零件都有可自定义的设置。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Recenter view\nShortcut: [not set]",
+      "value": "视角回正\n快捷键：[未设置]"
+    },
+    {
+      "key": "Redo\nRe-apply the last action that was undone.\nShortcut: [not set]",
+      "value": "重做\n快捷键：[未设置]"
+    },
+    {
+      "key": "Reloads your craft at your current position.\nShortcut: [not set]",
+      "value": "在当前位置重新加载载具。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Reloads your craft at your starting position.\nShortcut: [not set]",
+      "value": "在起始位置重新加载载具。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Repositions and uprights your craft at your current position.\nShortcut: [not set]",
+      "value": "在当前位置重新摆正并扶正载具。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Rotate Part 90° around X-axis\nShortcut: [not set]",
+      "value": "绕 X 轴旋转零件 90°\n快捷键：[未设置]"
+    },
+    {
+      "key": "Rotate Part 90° around Y-axis\nShortcut: [not set]",
+      "value": "绕 Y 轴旋转零件 90°\n快捷键：[未设置]"
+    },
+    {
+      "key": "Rotate Part 90° around Z-axis\nShortcut: [not set]",
+      "value": "绕 Z 轴旋转零件 90°\n快捷键：[未设置]"
+    },
+    {
+      "key": "Rotate Tool\nPrecisely rotate parts using gizmos without altering part connections.\nShortcut: [not set]",
+      "value": "旋转工具\n使用变换控件精确旋转零件，且不会改变零件连接关系。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Saves the current craft.\nShortcut: [not set]",
+      "value": "保存当前载具。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Search Parts\nFind parts by name or ID, and manage their visibility.\nShortcut: [not set]",
+      "value": "搜索零件\n按名称或 ID 查找零件，并管理它们的可见性。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Select Next Target\nShortcut: [not set]",
+      "value": "选择下一个目标\n快捷键：[未设置]"
+    },
+    {
+      "key": "Show Activation Panel\nShortcut: [not set]",
+      "value": "显示激活面板\n快捷键：[未设置]"
+    },
+    {
+      "key": "Show Instrument Panel\nShortcut: [not set]",
+      "value": "显示仪表面板\n快捷键：[未设置]"
+    },
+    {
+      "key": "Show all hidden parts\nShortcut: [not set]",
+      "value": "显示所有隐藏零件\n快捷键：[未设置]"
+    },
+    {
+      "key": "Show/hide part in the designer\nShortcut: [not set]",
+      "value": "在设计器中显示/隐藏零件\n快捷键：[未设置]"
+    },
+    {
+      "key": "Toggle Cutting Outlines\nShow or hide outlines around cutting parts.\nShortcut: [not set]",
+      "value": "切换切割轮廓\n显示或隐藏切割零件周围的轮廓。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Toggle Decal Outlines\nShow or hide outlines around decal parts.\nShortcut: [not set]",
+      "value": "切换贴花轮廓\n显示或隐藏贴花零件周围的轮廓。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Toggle symmetry for the selected part and its connected parts.\nHold Shift to only affect the selected part and not its connected parts.\nShortcut: [not set]",
+      "value": "切换所选零件及其相连零件的对称。\n按住 Shift 时只影响所选零件，不影响相连零件。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Toggle the initial symmetry setting for new parts when they are added to the craft.\nShortcut: [not set]",
+      "value": "切换新零件的默认对称设置。\n影响之后添加到载具上的新零件。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Translate Tool\nPrecisely move parts using gizmos without altering part connections.\nShortcut: [not set]",
+      "value": "平移工具\n使用变换控件精确移动零件，且不会改变零件连接关系。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Undo\nReverse the last action performed.\nShortcut: [not set]",
+      "value": "撤销\n快捷键：[未设置]"
+    },
+    {
+      "key": "View Tool\nView the craft without accidentally grabbing and moving parts.\nShortcut: [not set]",
+      "value": "查看工具\n查看载具时不会误抓取或移动零件。\n快捷键：[未设置]"
+    },
+    {
+      "key": "Weld the selected parts so they to move together in the designer. Does not make them rigid in flight.\nShortcut: [not set]",
+      "value": "焊接所选零件，使它们在设计器中一起移动。不会让它们在飞行中变成刚体。\n快捷键：[未设置]"
+    }
+  ]
+}

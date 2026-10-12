@@ -1,0 +1,133 @@
+{
+  "page": "9x-entries3",
+  "entries": [
+    {
+      "key": "Action",
+      "value": "操作"
+    },
+    {
+      "key": "Assign Controller",
+      "value": "分配控制器"
+    },
+    {
+      "key": "Category",
+      "value": "分类"
+    },
+    {
+      "key": "Control Settings",
+      "value": "控制设置"
+    },
+    {
+      "key": "Critical",
+      "value": "严重"
+    },
+    {
+      "key": "Damage Visualizer",
+      "value": "伤害可视化"
+    },
+    {
+      "key": "Dead",
+      "value": "已损毁"
+    },
+    {
+      "key": "Fire Weapon",
+      "value": "发射武器"
+    },
+    {
+      "key": "Foam",
+      "value": "泡沫"
+    },
+    {
+      "key": "Highlighted",
+      "value": "高亮"
+    },
+    {
+      "key": "Layout",
+      "value": "布局"
+    },
+    {
+      "key": "Moderate",
+      "value": "中等"
+    },
+    {
+      "key": "Normal",
+      "value": "正常"
+    },
+    {
+      "key": "Parking Brake",
+      "value": "驻车制动"
+    },
+    {
+      "key": "Pitch Axis",
+      "value": "俯仰轴"
+    },
+    {
+      "key": "Player",
+      "value": "玩家"
+    },
+    {
+      "key": "Pressed",
+      "value": "按下"
+    },
+    {
+      "key": "Quicksave",
+      "value": "快速保存"
+    },
+    {
+      "key": "Quicksave Craft",
+      "value": "快速保存载具"
+    },
+    {
+      "key": "Recenter view",
+      "value": "视角回正"
+    },
+    {
+      "key": "Remove",
+      "value": "移除"
+    },
+    {
+      "key": "Show/hide part in the designer",
+      "value": "在设计器中显示/隐藏零件"
+    },
+    {
+      "key": "Slew Right",
+      "value": "向右转动"
+    },
+    {
+      "key": "Standard Gamepad Support",
+      "value": "标准手柄支持"
+    },
+    {
+      "key": "System",
+      "value": "系统"
+    },
+    {
+      "key": "Teleport Down",
+      "value": "向下传送"
+    },
+    {
+      "key": "Teleport Up",
+      "value": "向上传送"
+    },
+    {
+      "key": "Tip: Several parts have properties that can be set by clicking the button with the wrench icon.",
+      "value": "提示：不少零件都有可以设置的属性，点击带扳手图标的按钮即可打开。"
+    },
+    {
+      "key": "Toggle Part Outline Visibility",
+      "value": "开关零件轮廓显示"
+    },
+    {
+      "key": "Toggles the foam on the water surface including foam effects caused by player crafts and other objects in the scene. This looks good but does have a negative impact on performance.",
+      "value": "切换水面的泡沫效果，包括玩家载具与场景中其他物体产生的泡沫。效果好看，但确实会对性能造成负面影响。"
+    },
+    {
+      "key": "Toggles the waves along the shorelines. This has an impact on performance but also, some players may just prefer less turbulent shorelines, either for physics-related or visual reasons.",
+      "value": "切换岸线附近的波浪。这会影响性能，而且有些玩家可能更喜欢不那么汹涌的岸线——无论是出于物理表现还是视觉偏好。"
+    },
+    {
+      "key": "Weld the selected parts so they to move together in the designer. Does not make them rigid in flight.",
+      "value": "焊接所选零件，使它们在设计器中一起移动。不会让它们在飞行中变成刚体。"
+    }
+  ]
+}
