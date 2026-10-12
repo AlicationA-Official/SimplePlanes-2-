@@ -1,0 +1,45 @@
+{
+  "page": "9x-entries2",
+  "entries": [
+    {
+      "key": "Animator",
+      "value": "动画器"
+    },
+    {
+      "key": "Gear Leg",
+      "value": "起落架支柱"
+    },
+    {
+      "key": "Name ▲",
+      "value": "名称 ▲"
+    },
+    {
+      "key": "New Property Name",
+      "value": "新属性名称"
+    },
+    {
+      "key": "New Property Value",
+      "value": "新属性值"
+    },
+    {
+      "key": "Tip: You can clone parts by clicking and dragging them with the right mouse button.",
+      "value": "提示：按住鼠标右键点击并拖动零件即可复制它。"
+    },
+    {
+      "key": "Tip: You can press CTRL+Z to undo and CTRL+Y to redo.",
+      "value": "提示：按 CTRL+Z 撤销，按 CTRL+Y 重做。"
+    },
+    {
+      "key": "Turboshaft",
+      "value": "涡轮轴发动机"
+    },
+    {
+      "key": "Undo complete",
+      "value": "撤销完成"
+    },
+    {
+      "key": "Undoing last step...",
+      "value": "正在撤销上一步…"
+    }
+  ]
+}
