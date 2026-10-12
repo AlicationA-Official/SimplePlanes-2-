@@ -2,6 +2,1846 @@
   "page": "9x-dynamic-prefix",
   "dynamicPrefixEntries": [
     {
+      "sourcePrefix": "Deleted Legacy Hollow Glass Fuselage",
+      "valuePrefix": "已删除 旧版空心玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Horizontal Stabilizer",
+      "valuePrefix": "已删除 旧版水平安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Cockpit Angled Corner",
+      "valuePrefix": "已删除 旧版座舱斜角转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Curved Reducer Block",
+      "valuePrefix": "已删除 旧版弧形过渡方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Vertical Stabilizer",
+      "valuePrefix": "已删除 旧版垂直安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Long Angled Block",
+      "valuePrefix": "已删除 旧版长斜角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Historic Cockpit",
+      "valuePrefix": "已删除 旧版复古座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Hollow Fuselage",
+      "valuePrefix": "已删除 旧版空心机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Structural Wing",
+      "valuePrefix": "已删除 旧版结构翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Resizable Wheel",
+      "valuePrefix": "已删除 旧版可调机轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Fuselage Block",
+      "valuePrefix": "已删除 旧版机身方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Glass Fuselage",
+      "valuePrefix": "已删除 旧版玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Horizontal Stabilizer",
+      "valuePrefix": "已删除 水平安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Cockpit Corner",
+      "valuePrefix": "已删除 旧版座舱转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Floating Block",
+      "valuePrefix": "已删除 旧版浮筒方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Angled Corner",
+      "valuePrefix": "已删除 旧版斜角转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Reducer Block",
+      "valuePrefix": "已删除 旧版过渡方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Curved Corner",
+      "valuePrefix": "已删除 旧版弧形转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Fuselage Cone",
+      "valuePrefix": "已删除 旧版机身鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Hollow Glass Fuselage",
+      "valuePrefix": "旧版空心玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Horizontal Stabilizer",
+      "valuePrefix": "旧版水平安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Sleek Cockpit",
+      "valuePrefix": "已删除 旧版流线座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Cockpit Angled Corner",
+      "valuePrefix": "旧版座舱斜角转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Cockpit Block",
+      "valuePrefix": "已删除 旧版座舱方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Curved Reducer Block",
+      "valuePrefix": "旧版弧形过渡方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Curved Block",
+      "valuePrefix": "已删除 旧版弧形方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Vertical Stabilizer",
+      "valuePrefix": "已删除 垂直安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Primary Wing",
+      "valuePrefix": "已删除 旧版主翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Right Angle Gearbox",
+      "valuePrefix": "已删除 直角变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Floor Mounted Pedal",
+      "valuePrefix": "已删除 地板式踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Riser Block",
+      "valuePrefix": "已删除 旧版增高方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Vertical Stabilizer",
+      "valuePrefix": "旧版垂直安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Catapult Connector",
+      "valuePrefix": "已删除 弹射器连接器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Procedural Missile",
+      "valuePrefix": "已删除 程序化导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Attitude Indicator",
+      "valuePrefix": "已删除 姿态仪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Semi Truck Engine",
+      "valuePrefix": "已删除 半挂卡车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Car Engine",
+      "valuePrefix": "已删除 旧版汽车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Missile Jet Inlet",
+      "valuePrefix": "已删除 导弹喷气进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Steering Wheel GT",
+      "valuePrefix": "已删除 GT 方向盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Long Angled Block",
+      "valuePrefix": "旧版长斜角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Nose Cone",
+      "valuePrefix": "已删除 旧版鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Structural Panel",
+      "valuePrefix": "已删除 结构板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Medium Turboprop",
+      "valuePrefix": "已删除 中型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Large Heli Rotor",
+      "valuePrefix": "已删除 大型直升机主旋翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Small Heli Rotor",
+      "valuePrefix": "已删除 小型直升机主旋翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Unguided Missile",
+      "valuePrefix": "已删除 非制导导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fighter Throttle",
+      "valuePrefix": "已删除 战斗机油门杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hollow Fuselage",
+      "valuePrefix": "已删除 空心机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Curved Fuselage",
+      "valuePrefix": "已删除 弧形机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Medium Turbofan",
+      "valuePrefix": "已删除 中型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Small Turboprop",
+      "valuePrefix": "已删除 小型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Large Turboprop",
+      "valuePrefix": "已删除 大型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL Slim Inlet",
+      "valuePrefix": "已删除 VTOL 细型进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Double Wishbone",
+      "valuePrefix": "已删除 双叉臂悬挂",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Missile Details",
+      "valuePrefix": "已删除 导弹细节",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Modern Joystick",
+      "valuePrefix": "已删除 现代操纵杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Ergonomic Lever",
+      "valuePrefix": "已删除 人体工学拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Flight Computer",
+      "valuePrefix": "已删除 飞控计算机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Historic Cockpit",
+      "valuePrefix": "旧版复古座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Formation Light",
+      "valuePrefix": "已删除 编队灯",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Glass Fuselage",
+      "valuePrefix": "已删除 玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Straight Block",
+      "valuePrefix": "已删除 直角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Hollow Fuselage",
+      "valuePrefix": "旧版空心机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Structural Wing",
+      "valuePrefix": "旧版结构翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Ultra Turbofan",
+      "valuePrefix": "已删除 超大型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Large Turbofan",
+      "valuePrefix": "已删除 大型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Economy Engine",
+      "valuePrefix": "已删除 经济型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gearbox Offset",
+      "valuePrefix": "已删除 偏置变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Wheel Assembly",
+      "valuePrefix": "已删除 轮组总成",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Airliner Front",
+      "valuePrefix": "已删除 客机前起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Arresting Hook",
+      "valuePrefix": "已删除 拦阻钩",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Resizable Wheel",
+      "valuePrefix": "旧版可调机轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Basic Joystick",
+      "valuePrefix": "已删除 基础操纵杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Steering Wheel",
+      "valuePrefix": "已删除 方向盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Blocked Canopy",
+      "valuePrefix": "已删除 封闭座舱盖",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Cockpit",
+      "valuePrefix": "已删除 旧版座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Fuselage Block",
+      "valuePrefix": "旧版机身方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Glass Fuselage",
+      "valuePrefix": "旧版玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Horizontal Stabilizer",
+      "valuePrefix": "水平安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Standard Flap",
+      "valuePrefix": "已删除 标准襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Prop Assembly",
+      "valuePrefix": "已删除 螺旋桨总成",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Sports Engine",
+      "valuePrefix": "已删除 运动型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Racing Engine",
+      "valuePrefix": "已删除 赛车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gearbox Large",
+      "valuePrefix": "已删除 大型变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Transfer Case",
+      "valuePrefix": "已删除 分动箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Offroad Wheel",
+      "valuePrefix": "已删除 越野车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Airliner Rear",
+      "valuePrefix": "已删除 客机主起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Trailing Link",
+      "valuePrefix": "已删除 拖曳臂起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hawk Eye Lite",
+      "valuePrefix": "已删除 轻型鹰眼瞄准吊舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Laser Missile",
+      "valuePrefix": "已删除 激光导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Missile Wings",
+      "valuePrefix": "已删除 导弹机翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Pirate Cannon",
+      "valuePrefix": "已删除 海盗炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Rocket",
+      "valuePrefix": "已删除 旧版火箭",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Joystick Base",
+      "valuePrefix": "已删除 操纵杆基座",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Cylinder Grip",
+      "valuePrefix": "已删除 圆柱握把",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Push Throttle",
+      "valuePrefix": "已删除 推杆式油门",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Vintage Lever",
+      "valuePrefix": "已删除 复古拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Cockpit Corner",
+      "valuePrefix": "旧版座舱转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hinge Rotator",
+      "valuePrefix": "已删除 铰链旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Small Rotator",
+      "valuePrefix": "已删除 小型旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Refuel Drogue",
+      "valuePrefix": "已删除 加油锥套",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Floating Block",
+      "valuePrefix": "旧版浮筒方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Angled Block",
+      "valuePrefix": "已删除 斜角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Angled Corner",
+      "valuePrefix": "旧版斜角转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Reducer Block",
+      "valuePrefix": "旧版过渡方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Curved Corner",
+      "valuePrefix": "旧版弧形转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Fuselage Cone",
+      "valuePrefix": "旧版机身鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Primary Wing",
+      "valuePrefix": "已删除 主翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Military Jet",
+      "valuePrefix": "已删除 军用喷气发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Transmission",
+      "valuePrefix": "已删除 变速器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gearbox Long",
+      "valuePrefix": "已删除 长型变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Differential",
+      "valuePrefix": "已删除 差速器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Racing Wheel",
+      "valuePrefix": "已删除 赛车车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Street Wheel",
+      "valuePrefix": "已删除 公路车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted A-Frame Bare",
+      "valuePrefix": "已删除 A 型架起落架（裸架）",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Missile Fins",
+      "valuePrefix": "已删除 导弹尾翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Clutch Pedal",
+      "valuePrefix": "已删除 离合踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Modern Frame",
+      "valuePrefix": "已删除 现代框架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Sleek Cockpit",
+      "valuePrefix": "旧版流线座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Cockpit Block",
+      "valuePrefix": "旧版座舱方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Beacon Light",
+      "valuePrefix": "已删除 航标灯",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Refuel Probe",
+      "valuePrefix": "已删除 受油探管",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Orbit Camera",
+      "valuePrefix": "已删除 环绕相机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Curved Block",
+      "valuePrefix": "旧版弧形方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Vertical Stabilizer",
+      "valuePrefix": "垂直安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fowler Flap",
+      "valuePrefix": "已删除 福勒襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Primary Wing",
+      "valuePrefix": "旧版主翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Radial Prop",
+      "valuePrefix": "已删除 星型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL Engine",
+      "valuePrefix": "已删除 VTOL 发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL Nozzle",
+      "valuePrefix": "已删除 VTOL 喷口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Tiny Engine",
+      "valuePrefix": "已删除 微型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Drive Shaft",
+      "valuePrefix": "已删除 传动轴",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Right Angle Gearbox",
+      "valuePrefix": "直角变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted SAR Missile",
+      "valuePrefix": "已删除 SAR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted ARD Missile",
+      "valuePrefix": "已删除 ARD 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Jet Missile",
+      "valuePrefix": "已删除 巡航导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fin Details",
+      "valuePrefix": "已删除 尾翼细节",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Tank Cannon",
+      "valuePrefix": "已删除 坦克炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Auto Cannon",
+      "valuePrefix": "已删除 机炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Modern Seat",
+      "valuePrefix": "已删除 现代座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Brake Pedal",
+      "valuePrefix": "已删除 刹车踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Floor Mounted Pedal",
+      "valuePrefix": "地板式踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Basic Lever",
+      "valuePrefix": "已删除 基础拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Handy Lever",
+      "valuePrefix": "已删除 便捷拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Basic Frame",
+      "valuePrefix": "已删除 基础框架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hemisphere",
+      "valuePrefix": "已删除 半球体",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Riser Block",
+      "valuePrefix": "旧版增高方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Delta Wing",
+      "valuePrefix": "已删除 三角翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Brake Flap",
+      "valuePrefix": "已删除 减速襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Large Prop",
+      "valuePrefix": "已删除 大型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Small Prop",
+      "valuePrefix": "已删除 小型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Tail Rotor",
+      "valuePrefix": "已删除 尾桨",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL Inlet",
+      "valuePrefix": "已删除 VTOL 进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Catapult Connector",
+      "valuePrefix": "弹射器连接器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted IR Missile",
+      "valuePrefix": "已删除 IR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted AR Missile",
+      "valuePrefix": "已删除 AR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Procedural Missile",
+      "valuePrefix": "程序化导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Rocket Pod",
+      "valuePrefix": "已删除 火箭发射巢",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Long Pylon",
+      "valuePrefix": "已删除 长挂架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Basic Seat",
+      "valuePrefix": "已删除 基础座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Attitude Indicator",
+      "valuePrefix": "姿态仪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Text Decal",
+      "valuePrefix": "已删除 文字贴花",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Nose Cone",
+      "valuePrefix": "已删除 鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Base Wing",
+      "valuePrefix": "已删除 基础机翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fuel Tank",
+      "valuePrefix": "已删除 油箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Semi Truck Engine",
+      "valuePrefix": "半挂卡车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Car Engine",
+      "valuePrefix": "旧版汽车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Missile Jet Inlet",
+      "valuePrefix": "导弹喷气进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Steering Wheel GT",
+      "valuePrefix": "GT 方向盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gas Pedal",
+      "valuePrefix": "已删除 油门踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gyroscope",
+      "valuePrefix": "已删除 陀螺仪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Parachute",
+      "valuePrefix": "已删除 降落伞",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Air Brake",
+      "valuePrefix": "已删除 减速板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fuselage",
+      "valuePrefix": "已删除 机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Nose Cone",
+      "valuePrefix": "旧版鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Structural Panel",
+      "valuePrefix": "结构板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Medium Turboprop",
+      "valuePrefix": "中型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Large Heli Rotor",
+      "valuePrefix": "大型直升机主旋翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Small Heli Rotor",
+      "valuePrefix": "小型直升机主旋翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL RCN",
+      "valuePrefix": "已删除 VTOL 姿控喷口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Coilover",
+      "valuePrefix": "已删除 弹簧避震器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gear Bay",
+      "valuePrefix": "已删除 起落架舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Beefcake",
+      "valuePrefix": "已删除 壮硕起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hawk Eye",
+      "valuePrefix": "已删除 鹰眼瞄准吊舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Unguided Missile",
+      "valuePrefix": "非制导导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Wing Gun",
+      "valuePrefix": "已删除 翼内机炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Car Seat",
+      "valuePrefix": "已删除 汽车座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fighter Throttle",
+      "valuePrefix": "战斗机油门杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Detacher",
+      "valuePrefix": "已删除 分离器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hollow Fuselage",
+      "valuePrefix": "空心机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Curved Fuselage",
+      "valuePrefix": "弧形机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Medium Turbofan",
+      "valuePrefix": "中型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Small Turboprop",
+      "valuePrefix": "小型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Large Turboprop",
+      "valuePrefix": "大型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL Slim Inlet",
+      "valuePrefix": "VTOL 细型进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Exhaust",
+      "valuePrefix": "已删除 排气管",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gearbox",
+      "valuePrefix": "已删除 变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Double Wishbone",
+      "valuePrefix": "双叉臂悬挂",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted GA Bent",
+      "valuePrefix": "已删除 通航弯管起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted A-Frame",
+      "valuePrefix": "已删除 A 型架起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Missile Details",
+      "valuePrefix": "导弹细节",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Torpedo",
+      "valuePrefix": "已删除 鱼雷",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Minigun",
+      "valuePrefix": "已删除 加特林机枪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Modern Joystick",
+      "valuePrefix": "现代操纵杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Ergonomic Lever",
+      "valuePrefix": "人体工学拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Flight Computer",
+      "valuePrefix": "飞控计算机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Formation Light",
+      "valuePrefix": "编队灯",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Rotator",
+      "valuePrefix": "已删除 旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Glass Fuselage",
+      "valuePrefix": "玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Window",
+      "valuePrefix": "已删除 舷窗",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Straight Block",
+      "valuePrefix": "直角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Sphere",
+      "valuePrefix": "已删除 球体",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Ultra Turbofan",
+      "valuePrefix": "超大型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Large Turbofan",
+      "valuePrefix": "大型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Economy Engine",
+      "valuePrefix": "经济型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gearbox Offset",
+      "valuePrefix": "偏置变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Wheel Assembly",
+      "valuePrefix": "轮组总成",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hollow",
+      "valuePrefix": "已删除 空心起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Braced",
+      "valuePrefix": "已删除 支撑式前起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Forged",
+      "valuePrefix": "已删除 锻造起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Airliner Front",
+      "valuePrefix": "客机前起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Tripod",
+      "valuePrefix": "已删除 三脚架起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Arresting Hook",
+      "valuePrefix": "拦阻钩",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Flares",
+      "valuePrefix": "已删除 热焰弹发射器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Chaffs",
+      "valuePrefix": "已删除 箔条弹发射器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Basic Joystick",
+      "valuePrefix": "基础操纵杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Steering Wheel",
+      "valuePrefix": "方向盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Switch",
+      "valuePrefix": "已删除 开关",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Button",
+      "valuePrefix": "已删除 按钮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Canopy",
+      "valuePrefix": "已删除 座舱盖",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Blocked Canopy",
+      "valuePrefix": "封闭座舱盖",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Cockpit",
+      "valuePrefix": "旧版座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Piston",
+      "valuePrefix": "已删除 活塞",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Magnet",
+      "valuePrefix": "已删除 电磁铁",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Camera",
+      "valuePrefix": "已删除 相机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Block",
+      "valuePrefix": "已删除 方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Standard Flap",
+      "valuePrefix": "标准襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Prop Assembly",
+      "valuePrefix": "螺旋桨总成",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Sports Engine",
+      "valuePrefix": "运动型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Racing Engine",
+      "valuePrefix": "赛车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gearbox Large",
+      "valuePrefix": "大型变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Transfer Case",
+      "valuePrefix": "分动箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Offroad Wheel",
+      "valuePrefix": "越野车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Airliner Rear",
+      "valuePrefix": "客机主起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Stout",
+      "valuePrefix": "已删除 矮壮起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Heavy",
+      "valuePrefix": "已删除 重型起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Lever",
+      "valuePrefix": "已删除 杠杆式起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Trailing Link",
+      "valuePrefix": "拖曳臂起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hawk Eye Lite",
+      "valuePrefix": "轻型鹰眼瞄准吊舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Laser Missile",
+      "valuePrefix": "激光导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Missile Wings",
+      "valuePrefix": "导弹机翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Pirate Cannon",
+      "valuePrefix": "海盗炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Rocket",
+      "valuePrefix": "旧版火箭",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Pylon",
+      "valuePrefix": "已删除 挂架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gauge",
+      "valuePrefix": "已删除 仪表",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Label",
+      "valuePrefix": "已删除 标签",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Joystick Base",
+      "valuePrefix": "操纵杆基座",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Cylinder Grip",
+      "valuePrefix": "圆柱握把",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Push Throttle",
+      "valuePrefix": "推杆式油门",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Vintage Lever",
+      "valuePrefix": "复古拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Decal",
+      "valuePrefix": "已删除 贴花",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hinge Rotator",
+      "valuePrefix": "铰链旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Small Rotator",
+      "valuePrefix": "小型旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Winch",
+      "valuePrefix": "已删除 绞盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Refuel Drogue",
+      "valuePrefix": "加油锥套",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hole",
+      "valuePrefix": "已删除 开孔",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Angled Block",
+      "valuePrefix": "斜角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Primary Wing",
+      "valuePrefix": "主翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Slat",
+      "valuePrefix": "已删除 前缘缝翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Military Jet",
+      "valuePrefix": "军用喷气发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Transmission",
+      "valuePrefix": "变速器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gearbox Long",
+      "valuePrefix": "长型变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Differential",
+      "valuePrefix": "差速器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Racing Wheel",
+      "valuePrefix": "赛车车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Street Wheel",
+      "valuePrefix": "公路车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Aero",
+      "valuePrefix": "已删除 气动整流起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "A-Frame Bare",
+      "valuePrefix": "A 型架起落架（裸架）",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Ivan",
+      "valuePrefix": "已删除 伊万式起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Wing",
+      "valuePrefix": "已删除 翼载起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Missile Fins",
+      "valuePrefix": "导弹尾翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Yoke",
+      "valuePrefix": "已删除 驾驶盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Clutch Pedal",
+      "valuePrefix": "离合踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Modern Frame",
+      "valuePrefix": "现代框架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Beacon Light",
+      "valuePrefix": "航标灯",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Refuel Probe",
+      "valuePrefix": "受油探管",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Orbit Camera",
+      "valuePrefix": "环绕相机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fowler Flap",
+      "valuePrefix": "福勒襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Radial Prop",
+      "valuePrefix": "星型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL Engine",
+      "valuePrefix": "VTOL 发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL Nozzle",
+      "valuePrefix": "VTOL 喷口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Tiny Engine",
+      "valuePrefix": "微型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Drive Shaft",
+      "valuePrefix": "传动轴",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "SAR Missile",
+      "valuePrefix": "SAR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "ARD Missile",
+      "valuePrefix": "ARD 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Jet Missile",
+      "valuePrefix": "巡航导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fin Details",
+      "valuePrefix": "尾翼细节",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Tank Cannon",
+      "valuePrefix": "坦克炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Auto Cannon",
+      "valuePrefix": "机炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Modern Seat",
+      "valuePrefix": "现代座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Brake Pedal",
+      "valuePrefix": "刹车踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Basic Lever",
+      "valuePrefix": "基础拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Handy Lever",
+      "valuePrefix": "便捷拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Basic Frame",
+      "valuePrefix": "基础框架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hemisphere",
+      "valuePrefix": "半球体",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Delta Wing",
+      "valuePrefix": "三角翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Brake Flap",
+      "valuePrefix": "减速襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Large Prop",
+      "valuePrefix": "大型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Small Prop",
+      "valuePrefix": "小型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Tail Rotor",
+      "valuePrefix": "尾桨",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL Inlet",
+      "valuePrefix": "VTOL 进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "IR Missile",
+      "valuePrefix": "IR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "AR Missile",
+      "valuePrefix": "AR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Rocket Pod",
+      "valuePrefix": "火箭发射巢",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Long Pylon",
+      "valuePrefix": "长挂架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Basic Seat",
+      "valuePrefix": "基础座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Text Decal",
+      "valuePrefix": "文字贴花",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Nose Cone",
+      "valuePrefix": "鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Base Wing",
+      "valuePrefix": "基础机翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fuel Tank",
+      "valuePrefix": "油箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gas Pedal",
+      "valuePrefix": "油门踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gyroscope",
+      "valuePrefix": "陀螺仪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Parachute",
+      "valuePrefix": "降落伞",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Air Brake",
+      "valuePrefix": "减速板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fuselage",
+      "valuePrefix": "机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL RCN",
+      "valuePrefix": "VTOL 姿控喷口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Coilover",
+      "valuePrefix": "弹簧避震器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gear Bay",
+      "valuePrefix": "起落架舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Beefcake",
+      "valuePrefix": "壮硕起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hawk Eye",
+      "valuePrefix": "鹰眼瞄准吊舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Wing Gun",
+      "valuePrefix": "翼内机炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Car Seat",
+      "valuePrefix": "汽车座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Detacher",
+      "valuePrefix": "分离器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Exhaust",
+      "valuePrefix": "排气管",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gearbox",
+      "valuePrefix": "变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "GA Bent",
+      "valuePrefix": "通航弯管起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "A-Frame",
+      "valuePrefix": "A 型架起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Torpedo",
+      "valuePrefix": "鱼雷",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Minigun",
+      "valuePrefix": "加特林机枪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Rotator",
+      "valuePrefix": "旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Window",
+      "valuePrefix": "舷窗",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Sphere",
+      "valuePrefix": "球体",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hollow",
+      "valuePrefix": "空心起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Braced",
+      "valuePrefix": "支撑式前起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Forged",
+      "valuePrefix": "锻造起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Tripod",
+      "valuePrefix": "三脚架起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Flares",
+      "valuePrefix": "热焰弹发射器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Chaffs",
+      "valuePrefix": "箔条弹发射器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Switch",
+      "valuePrefix": "开关",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Button",
+      "valuePrefix": "按钮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Canopy",
+      "valuePrefix": "座舱盖",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Piston",
+      "valuePrefix": "活塞",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Magnet",
+      "valuePrefix": "电磁铁",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Camera",
+      "valuePrefix": "相机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Block",
+      "valuePrefix": "方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Stout",
+      "valuePrefix": "矮壮起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Heavy",
+      "valuePrefix": "重型起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Lever",
+      "valuePrefix": "杠杆式起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Pylon",
+      "valuePrefix": "挂架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gauge",
+      "valuePrefix": "仪表",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Label",
+      "valuePrefix": "标签",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Decal",
+      "valuePrefix": "贴花",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Winch",
+      "valuePrefix": "绞盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hole",
+      "valuePrefix": "开孔",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Slat",
+      "valuePrefix": "前缘缝翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Aero",
+      "valuePrefix": "气动整流起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Ivan",
+      "valuePrefix": "伊万式起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Wing",
+      "valuePrefix": "翼载起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Yoke",
+      "valuePrefix": "驾驶盘",
+      "valueSuffix": ""
+    },
+    {
       "sourcePrefix": "Change view\nShortcut: ",
       "valuePrefix": "切换视角\n快捷键：",
       "valueSuffix": ""
@@ -179,6 +2019,51 @@
     {
       "sourcePrefix": "Weld the selected parts so they to move together in the designer. Does not make them rigid in flight.\nShortcut: ",
       "valuePrefix": "焊接所选零件，使它们在设计器中一起移动。不会让它们在飞行中变成刚体。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Press a key to assign it to\n",
+      "valuePrefix": "按下一个按键，将其分配给\n",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Now press a button or move an axis to assign it to\n",
+      "valuePrefix": "现在按下按钮或移动轴，将其分配给\n",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Must be at least ",
+      "valuePrefix": "至少为 ",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Must be at most ",
+      "valuePrefix": "至多为 ",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "default: ",
+      "valuePrefix": "默认值：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted ",
+      "valuePrefix": "已删除 ",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Pilot Seat",
+      "valuePrefix": "驾驶座",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Cockpit Hole",
+      "valuePrefix": "座舱开孔",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Prop Engine",
+      "valuePrefix": "螺旋桨发动机",
       "valueSuffix": ""
     }
   ]

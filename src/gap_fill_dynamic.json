@@ -179,6 +179,51 @@
       "sourcePrefix": "Weld the selected parts so they to move together in the designer. Does not make them rigid in flight.\nShortcut: ",
       "valuePrefix": "焊接所选零件，使它们在设计器中一起移动。不会让它们在飞行中变成刚体。\n快捷键：",
       "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Press a key to assign it to\n",
+      "valuePrefix": "按下一个按键，将其分配给\n",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Now press a button or move an axis to assign it to\n",
+      "valuePrefix": "现在按下按钮或移动轴，将其分配给\n",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Must be at least ",
+      "valuePrefix": "至少为 ",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Must be at most ",
+      "valuePrefix": "至多为 ",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "default: ",
+      "valuePrefix": "默认值：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted ",
+      "valuePrefix": "已删除 ",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Pilot Seat",
+      "valuePrefix": "驾驶座",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Cockpit Hole",
+      "valuePrefix": "座舱开孔",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Prop Engine",
+      "valuePrefix": "螺旋桨发动机",
+      "valueSuffix": ""
     }
   ]
 }

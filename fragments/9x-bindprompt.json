@@ -1,0 +1,1429 @@
+{
+  "page": "9x-bindprompt",
+  "entries": [
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate1</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate1</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate2</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate2</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate3</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate3</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate4</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate4</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate5</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate5</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate6</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate6</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate7</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate7</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate8</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate8</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Brake（刹车）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Brake（刹车）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Flaps（襟翼）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Flaps（襟翼）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Pitch（俯仰）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Pitch（俯仰）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Roll（滚转）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Roll（滚转）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Pitch Back</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Pitch Back</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Pitch Forward</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Pitch Forward</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Pitch</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Pitch</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Roll Left</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Roll Left</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Roll Right</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Roll Right</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Roll</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Roll</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Yaw Left</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Yaw Left</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Yaw Right</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Yaw Right</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Yaw</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Yaw</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Throttle（油门）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Throttle（油门）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Trim（配平）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Trim（配平）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>VTOL 向上</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>VTOL 向上</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>VTOL 向下</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>VTOL 向下</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>Yaw（偏航）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Yaw（偏航）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>上一个武器</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>上一个武器</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>上一个目标</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>上一个目标</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>上一个视角</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>上一个视角</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>下一个武器</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>下一个武器</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>下一个目标</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>下一个目标</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>下一个视角</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>下一个视角</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>互动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>互动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>从此处重新开始</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>从此处重新开始</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>伤害可视化</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>伤害可视化</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>低头</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>低头</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>保存载具</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>保存载具</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>减小刹车</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>减小刹车</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>减小油门</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>减小油门</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>分类</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>分类</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>切换模式</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>切换模式</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>切换瞄准模式</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>切换瞄准模式</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>切换隐藏类型</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>切换隐藏类型</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>删除所选零件</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>删除所选零件</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>反向调整零件</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>反向调整零件</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>反选隐藏零件</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>反选隐藏零件</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>发射干扰物</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>发射干扰物</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>取消关联对称（单个零件）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>取消关联对称（单个零件）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向上传送</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上传送</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向上平移</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上平移</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向上旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向上看</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上看</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向上转动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上转动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向上配平</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上配平</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向下传送</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下传送</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向下平移</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下平移</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向下旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向下看</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下看</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向下转动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下转动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向下配平</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下配平</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向内平移</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向内平移</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向前移动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向前移动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向右偏航</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右偏航</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向右平移</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右平移</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向右旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向右滚转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右滚转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向右看</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右看</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向右移动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右移动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向右转动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右转动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向后看</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向后看</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向后看（右）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向后看（右）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向后看（左）</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向后看（左）</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向后移动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向后移动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向外平移</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向外平移</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向左偏航</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左偏航</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向左平移</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左平移</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向左旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向左滚转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左滚转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向左看</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左看</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向左移动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左移动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>向左转动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左转动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>启用相机视角控制</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>启用相机视角控制</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>增加刹车</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>增加刹车</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>增大油门</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>增大油门</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>布局</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>布局</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>座舱视角</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>座舱视角</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关剖切可视性</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关剖切可视性</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关对称面板</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关对称面板</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关幽灵视图</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关幽灵视图</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关快进</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关快进</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关慢动作</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关慢动作</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关搜索零件面板</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关搜索零件面板</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关正交视图</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关正交视图</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关涂装面板</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关涂装面板</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关自动驾驶</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关自动驾驶</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关菜单</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关菜单</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关蓝图面板</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关蓝图面板</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关贴花可视性</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关贴花可视性</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关零件变换面板</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关零件变换面板</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关零件属性面板</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关零件属性面板</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关零件轮廓显示</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关零件轮廓显示</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关面板</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关面板</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关风力设置</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关风力设置</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关驻车制动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关驻车制动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关鼠标操纵杆</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关鼠标操纵杆</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开关鼠标视角控制</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关鼠标视角控制</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开发者控制台</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开发者控制台</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>开火炮</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开火炮</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 X+</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 X+</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 X-</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 X-</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 Y+</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 Y+</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 Y-</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 Y-</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 Z+</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 Z+</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 Z-</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 Z-</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>快速保存</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>快速保存</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>快速保存载具</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>快速保存载具</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>截图模式</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>截图模式</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>抬头</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>抬头</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>按钮</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>按钮</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>掠过视角</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>掠过视角</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>撤销</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>撤销</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>操作</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>操作</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>收上襟翼</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>收上襟翼</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>放下襟翼</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>放下襟翼</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>放大</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>放大</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>暂停</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>暂停</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>最大油门</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>最大油门</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>横向移动</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>横向移动</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>正向调整零件</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>正向调整零件</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>武器开火</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>武器开火</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>水平偏移</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>水平偏移</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>清空隐藏零件列表</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>清空隐藏零件列表</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 1</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 1</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 2</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 2</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 3</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 3</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 4</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 4</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 5</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 5</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 6</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 6</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 7</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 7</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 8</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 8</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>玩家</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>玩家</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>环绕视角</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>环绕视角</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>相机回正</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>相机回正</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>系统</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>系统</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>缩小</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>缩小</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>缩放</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>缩放</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>缩放瞄准吊舱</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>缩放瞄准吊舱</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>自定义相机 1</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自定义相机 1</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>自定义相机 2</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自定义相机 2</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>自定义相机 3</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自定义相机 3</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>自定义相机 4</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自定义相机 4</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>自毁</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自毁</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>起落架</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>起落架</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>跳舞</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>跳舞</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>跳跃</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>跳跃</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>蹲伏</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>蹲伏</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>轴</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>轴</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>追踪视角</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>追踪视角</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>选择平移工具</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择平移工具</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>选择并聚焦零件</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择并聚焦零件</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>选择旋转工具</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择旋转工具</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>选择移动工具</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择移动工具</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>选择视图工具</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择视图工具</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>重做</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重做</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>重新开始</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重新开始</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>重新连接所选零件</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重新连接所选零件</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>重置襟翼</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重置襟翼</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>重置配平</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重置配平</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>隐藏零件</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>隐藏零件</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 X+ 旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 X+ 旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 X- 旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 X- 旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 Y+ 旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 Y+ 旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 Y- 旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 Y- 旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 Z+ 旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 Z+ 旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 Z- 旋转</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 Z- 旋转</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>零件调整上一模式</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件调整上一模式</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>零件调整下一模式</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件调整下一模式</color>"
+    },
+    {
+      "key": "Now press a button or move an axis to assign it to\n<color=#ffff00>零油门</color>",
+      "value": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零油门</color>"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Activate1</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Activate1</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Activate2</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Activate2</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Activate3</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Activate3</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Activate4</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Activate4</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Activate5</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Activate5</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Activate6</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Activate6</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Activate7</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Activate7</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Activate8</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Activate8</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Brake（刹车）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Brake（刹车）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Flaps（襟翼）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Flaps（襟翼）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Pitch（俯仰）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Pitch（俯仰）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Roll（滚转）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Roll（滚转）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Test Pitch Back</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Test Pitch Back</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Test Pitch Forward</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Test Pitch Forward</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Test Pitch</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Test Pitch</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Test Roll Left</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Test Roll Left</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Test Roll Right</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Test Roll Right</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Test Roll</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Test Roll</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Test Yaw Left</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Test Yaw Left</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Test Yaw Right</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Test Yaw Right</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Test Yaw</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Test Yaw</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Throttle（油门）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Throttle（油门）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Trim（配平）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Trim（配平）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>VTOL 向上</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>VTOL 向上</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>VTOL 向下</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>VTOL 向下</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>Yaw（偏航）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>Yaw（偏航）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>上一个武器</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>上一个武器</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>上一个目标</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>上一个目标</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>上一个视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>上一个视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>下一个武器</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>下一个武器</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>下一个目标</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>下一个目标</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>下一个视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>下一个视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>互动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>互动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>从此处重新开始</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>从此处重新开始</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>伤害可视化</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>伤害可视化</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>低头</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>低头</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>保存载具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>保存载具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>减小刹车</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>减小刹车</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>减小油门</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>减小油门</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>分类</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>分类</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>切换模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>切换模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>切换瞄准模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>切换瞄准模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>切换隐藏类型</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>切换隐藏类型</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>删除所选零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>删除所选零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>反向调整零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>反向调整零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>反选隐藏零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>反选隐藏零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>发射干扰物</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>发射干扰物</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>取消关联对称（单个零件）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>取消关联对称（单个零件）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向上传送</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向上传送</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向上平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向上平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向上旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向上旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向上看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向上看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向上转动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向上转动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向上配平</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向上配平</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向下传送</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向下传送</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向下平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向下平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向下旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向下旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向下看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向下看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向下转动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向下转动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向下配平</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向下配平</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向内平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向内平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向前移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向前移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向右偏航</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向右偏航</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向右平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向右平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向右旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向右旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向右滚转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向右滚转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向右看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向右看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向右移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向右移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向右转动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向右转动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向后看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向后看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向后看（右）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向后看（右）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向后看（左）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向后看（左）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向后移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向后移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向外平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向外平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向左偏航</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向左偏航</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向左平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向左平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向左旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向左旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向左滚转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向左滚转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向左看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向左看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向左移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向左移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>向左转动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>向左转动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>启用相机视角控制</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>启用相机视角控制</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>增加刹车</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>增加刹车</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>增大油门</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>增大油门</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>布局</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>布局</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>座舱视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>座舱视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关剖切可视性</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关剖切可视性</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关对称面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关对称面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关幽灵视图</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关幽灵视图</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关快进</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关快进</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关慢动作</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关慢动作</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关搜索零件面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关搜索零件面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关正交视图</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关正交视图</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关涂装面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关涂装面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关自动驾驶</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关自动驾驶</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关菜单</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关菜单</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关蓝图面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关蓝图面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关贴花可视性</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关贴花可视性</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关零件变换面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关零件变换面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关零件属性面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关零件属性面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关零件轮廓显示</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关零件轮廓显示</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关风力设置</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关风力设置</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关驻车制动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关驻车制动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关鼠标操纵杆</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关鼠标操纵杆</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开关鼠标视角控制</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开关鼠标视角控制</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开发者控制台</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开发者控制台</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>开火炮</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>开火炮</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>微调零件 X+</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 X+</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>微调零件 X-</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 X-</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>微调零件 Y+</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 Y+</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>微调零件 Y-</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 Y-</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>微调零件 Z+</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 Z+</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>微调零件 Z-</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 Z-</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>快速保存</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>快速保存</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>快速保存载具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>快速保存载具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>截图模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>截图模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>抬头</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>抬头</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>按钮</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>按钮</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>掠过视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>掠过视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>撤销</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>撤销</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>操作</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>操作</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>收上襟翼</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>收上襟翼</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>放下襟翼</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>放下襟翼</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>放大</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>放大</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>暂停</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>暂停</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>最大油门</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>最大油门</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>横向移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>横向移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>正向调整零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>正向调整零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>武器开火</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>武器开火</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>水平偏移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>水平偏移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>清空隐藏零件列表</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>清空隐藏零件列表</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>激活组 1</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>激活组 1</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>激活组 2</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>激活组 2</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>激活组 3</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>激活组 3</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>激活组 4</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>激活组 4</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>激活组 5</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>激活组 5</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>激活组 6</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>激活组 6</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>激活组 7</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>激活组 7</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>激活组 8</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>激活组 8</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>玩家</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>玩家</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>环绕视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>环绕视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>相机回正</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>相机回正</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>系统</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>系统</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>缩小</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>缩小</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>缩放</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>缩放</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>缩放瞄准吊舱</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>缩放瞄准吊舱</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>自定义相机 1</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>自定义相机 1</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>自定义相机 2</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>自定义相机 2</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>自定义相机 3</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>自定义相机 3</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>自定义相机 4</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>自定义相机 4</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>自毁</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>自毁</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>起落架</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>起落架</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>跳舞</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>跳舞</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>跳跃</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>跳跃</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>蹲伏</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>蹲伏</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>轴</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>轴</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>追踪视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>追踪视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>选择平移工具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>选择平移工具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>选择并聚焦零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>选择并聚焦零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>选择旋转工具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>选择旋转工具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>选择移动工具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>选择移动工具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>选择视图工具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>选择视图工具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>重做</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>重做</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>重新开始</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>重新开始</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>重新连接所选零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>重新连接所选零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>重置襟翼</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>重置襟翼</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>重置配平</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>重置配平</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>隐藏零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>隐藏零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>零件绕 X+ 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 X+ 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>零件绕 X- 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 X- 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>零件绕 Y+ 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 Y+ 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>零件绕 Y- 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 Y- 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>零件绕 Z+ 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 Z+ 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>零件绕 Z- 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 Z- 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>零件调整上一模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>零件调整上一模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>零件调整下一模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>零件调整下一模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    },
+    {
+      "key": "Press a key to assign it to\n<color=#ffff00>零油门</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.",
+      "value": "按下一个按键，将其分配给\n<color=#ffff00>零油门</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。"
+    }
+  ]
+}

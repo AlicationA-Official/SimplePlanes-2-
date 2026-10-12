@@ -1,0 +1,7 @@
+{
+  "page": "9x-removed-keys",
+  "note": "这些字符串被游戏用做逻辑比较，翻译后会破坏功能，故从词表中移除",
+  "removed": [
+    "Remove"
+  ]
+}

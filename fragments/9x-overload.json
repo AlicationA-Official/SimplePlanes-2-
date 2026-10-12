@@ -1,0 +1,109 @@
+{
+  "page": "9x-overload",
+  "entries": [
+    {
+      "key": "Dangerous Modifications Detected",
+      "value": "检测到危险修改"
+    },
+    {
+      "key": "Must be a number.",
+      "value": "必须填数字。"
+    },
+    {
+      "key": "Must be a whole number.",
+      "value": "必须填整数。"
+    },
+    {
+      "key": "No Part Selected",
+      "value": "未选择零件"
+    },
+    {
+      "key": "Save failed (part not destroyed). Restoring backup.",
+      "value": "保存失败（零件未被销毁）。正在恢复备份。"
+    },
+    {
+      "key": "Save failed. Could not create GameObject. Restoring backup.",
+      "value": "保存失败：无法创建物体。正在恢复备份。"
+    },
+    {
+      "key": "Save failed. Could not find Part Script. Restoring backup.",
+      "value": "保存失败：找不到零件脚本。正在恢复备份。"
+    },
+    {
+      "key": "Save failed. Could not re-initialize part. Restoring backup.",
+      "value": "保存失败：无法重新初始化零件。正在恢复备份。"
+    },
+    {
+      "key": "You have modified properties that have a high risk of breaking something.",
+      "value": "你修改了有较高风险导致故障的属性。"
+    },
+    {
+      "key": "centerOfMass",
+      "value": "重心"
+    },
+    {
+      "key": "disableAircraftCollisions",
+      "value": "禁用飞行器碰撞"
+    },
+    {
+      "key": "drag",
+      "value": "阻力"
+    },
+    {
+      "key": "dragArea",
+      "value": "阻力面积"
+    },
+    {
+      "key": "dragScale",
+      "value": "阻力缩放"
+    },
+    {
+      "key": "dragType",
+      "value": "阻力类型"
+    },
+    {
+      "key": "health",
+      "value": "耐久"
+    },
+    {
+      "key": "id",
+      "value": "编号"
+    },
+    {
+      "key": "massScale",
+      "value": "质量缩放"
+    },
+    {
+      "key": "materials",
+      "value": "材质"
+    },
+    {
+      "key": "partCollisionResponse",
+      "value": "碰撞响应"
+    },
+    {
+      "key": "partType",
+      "value": "零件类型"
+    },
+    {
+      "key": "partType has been changed. All connections are destroyed.",
+      "value": "零件类型（partType）已被修改，所有连接都会被破坏。"
+    },
+    {
+      "key": "position",
+      "value": "位置"
+    },
+    {
+      "key": "rotation",
+      "value": "旋转"
+    },
+    {
+      "key": "scale",
+      "value": "缩放"
+    },
+    {
+      "key": "symmetryDisabled",
+      "value": "禁用对称"
+    }
+  ]
+}

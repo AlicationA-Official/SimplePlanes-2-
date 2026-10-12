@@ -1,0 +1,185 @@
+{
+  "page": "9x-capture",
+  "entries": [
+    {
+      "key": "\"A Million Little Runways\"",
+      "value": "“百万小跑道”"
+    },
+    {
+      "key": "<color=#ffffff80>No part selected",
+      "value": "<color=#ffffff80>未选择零件"
+    },
+    {
+      "key": "Add a small wheel in the back to keep the tail out of the dirt.",
+      "value": "在尾部加一个小轮子，别让机尾蹭到地面。"
+    },
+    {
+      "key": "Add the wing landing gear here.",
+      "value": "在这里添加机翼起落架。"
+    },
+    {
+      "key": "Aero FX",
+      "value": "气动特效"
+    },
+    {
+      "key": "Aichi Go",
+      "value": "爱知号"
+    },
+    {
+      "key": "Arcade",
+      "value": "街机"
+    },
+    {
+      "key": "Boulder",
+      "value": "巨砾"
+    },
+    {
+      "key": "Bullet Proof",
+      "value": "防弹级"
+    },
+    {
+      "key": "Chevron Classic",
+      "value": "经典人字纹"
+    },
+    {
+      "key": "Circuit",
+      "value": "赛道"
+    },
+    {
+      "key": "Cockpit Hole",
+      "value": "座舱开孔"
+    },
+    {
+      "key": "Connection added",
+      "value": "已添加连接"
+    },
+    {
+      "key": "Custom Input",
+      "value": "自定义输入"
+    },
+    {
+      "key": "Draft Master",
+      "value": "气流大师"
+    },
+    {
+      "key": "Enable the hole cutting outlines by clicking the indicated button. You can also use the '/' key.",
+      "value": "点击指示的按钮即可开启切孔轮廓线。也可以按“/”键。"
+    },
+    {
+      "key": "GT Heritage",
+      "value": "GT 经典传承"
+    },
+    {
+      "key": "Groovy",
+      "value": "律动"
+    },
+    {
+      "key": "Let's reset the view now. Click the flashing button in the top right.",
+      "value": "现在重置一下视角。点击右上角闪烁的按钮。"
+    },
+    {
+      "key": "Mud Butte",
+      "value": "泥地孤峰"
+    },
+    {
+      "key": "Nomad",
+      "value": "游牧者"
+    },
+    {
+      "key": "Now click the Side View button.",
+      "value": "现在点击“侧视图”按钮。"
+    },
+    {
+      "key": "Oval Tech",
+      "value": "椭圆科技"
+    },
+    {
+      "key": "Pilot Seat",
+      "value": "驾驶座"
+    },
+    {
+      "key": "Pro tip 2: Hold 'Left Shift' while moving or cloning to affect only the selected part. It also toggles Selected/Connected mode for the Rotate and Translate tools.",
+      "value": "进阶技巧 2：移动或复制时按住“左 Shift”，可只影响选中的零件。它还能在旋转与平移工具中切换“仅选中／相连”模式。"
+    },
+    {
+      "key": "Prop Engine",
+      "value": "螺旋桨发动机"
+    },
+    {
+      "key": "Rally Raider",
+      "value": "拉力掠夺者"
+    },
+    {
+      "key": "Ronin 6",
+      "value": "浪人 6"
+    },
+    {
+      "key": "Safari",
+      "value": "远征"
+    },
+    {
+      "key": "Select an engine to drive this exhaust.",
+      "value": "选择一台发动机来驱动这个排气管。"
+    },
+    {
+      "key": "Select the indicated wing part.",
+      "value": "选择被指示的机翼零件。"
+    },
+    {
+      "key": "Semi Front",
+      "value": "半挂前轮"
+    },
+    {
+      "key": "Semi Rear",
+      "value": "半挂后轮"
+    },
+    {
+      "key": "Slick 5",
+      "value": "光头胎 5"
+    },
+    {
+      "key": "Slicks",
+      "value": "光头胎"
+    },
+    {
+      "key": "That's it, you got it! Keep panning.",
+      "value": "就是这样，你学会了！继续平移视角。"
+    },
+    {
+      "key": "That's it, you got it! Keep zooming in and out.",
+      "value": "就是这样，你学会了！继续缩放视角。"
+    },
+    {
+      "key": "Titan",
+      "value": "泰坦"
+    },
+    {
+      "key": "Touge Star",
+      "value": "山路之星"
+    },
+    {
+      "key": "Trail Breaker",
+      "value": "开路先锋"
+    },
+    {
+      "key": "Veloce",
+      "value": "迅捷"
+    },
+    {
+      "key": "Wet Bandit",
+      "value": "湿地霸王"
+    },
+    {
+      "key": "You can also pan the view around by right clicking and dragging. Go ahead and give it a try.",
+      "value": "你也可以按住右键拖动来平移视角。去试试看吧。"
+    },
+    {
+      "key": "You can also zoom in and out with the mouse wheel. Go ahead and try it out.",
+      "value": "你也可以用鼠标滚轮缩放。去试试看吧。"
+    },
+    {
+      "key": "Zero Yon",
+      "value": "零式四型"
+    }
+  ]
+}

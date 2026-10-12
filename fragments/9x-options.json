@@ -1,0 +1,249 @@
+{
+  "page": "9x-options",
+  "entries": [
+    {
+      "key": "AirLiner Front",
+      "value": "客机式前起落架"
+    },
+    {
+      "key": "AirLiner Rear",
+      "value": "客机式后起落架"
+    },
+    {
+      "key": "Basic",
+      "value": "基础"
+    },
+    {
+      "key": "Beefcake",
+      "value": "重装式"
+    },
+    {
+      "key": "Bush Frame",
+      "value": "丛林框架式"
+    },
+    {
+      "key": "Clappered",
+      "value": "舌瓣式"
+    },
+    {
+      "key": "Curved",
+      "value": "弯曲"
+    },
+    {
+      "key": "Double",
+      "value": "双轮"
+    },
+    {
+      "key": "Double Cage",
+      "value": "双轮笼式"
+    },
+    {
+      "key": "Double Double",
+      "value": "双联双轮"
+    },
+    {
+      "key": "Flat Tapered I",
+      "value": "扁平锥形 I"
+    },
+    {
+      "key": "Flat Tapered II",
+      "value": "扁平锥形 II"
+    },
+    {
+      "key": "Flat Tapered III",
+      "value": "扁平锥形 III"
+    },
+    {
+      "key": "Heavy Scissor",
+      "value": "重型剪式"
+    },
+    {
+      "key": "LargeSlanted",
+      "value": "大斜角"
+    },
+    {
+      "key": "Long Nose",
+      "value": "长机头"
+    },
+    {
+      "key": "Oval",
+      "value": "椭圆"
+    },
+    {
+      "key": "Pants Center",
+      "value": "轮罩中置"
+    },
+    {
+      "key": "Pants Side",
+      "value": "轮罩侧式"
+    },
+    {
+      "key": "Pointy",
+      "value": "尖头"
+    },
+    {
+      "key": "Pointy Large",
+      "value": "大尖头"
+    },
+    {
+      "key": "Pointy Spiral",
+      "value": "尖头螺旋"
+    },
+    {
+      "key": "Quad",
+      "value": "四轮"
+    },
+    {
+      "key": "Quad Offset",
+      "value": "四轮偏置"
+    },
+    {
+      "key": "Quad Z",
+      "value": "四轮 Z 型"
+    },
+    {
+      "key": "Raked Chevron",
+      "value": "后掠人字形"
+    },
+    {
+      "key": "Raked Tapered I",
+      "value": "后掠锥形 I"
+    },
+    {
+      "key": "Raked Tapered II",
+      "value": "后掠锥形 II"
+    },
+    {
+      "key": "Raked Tapered III",
+      "value": "后掠锥形 III"
+    },
+    {
+      "key": "Round Large",
+      "value": "大圆形"
+    },
+    {
+      "key": "Round Spiral",
+      "value": "圆形螺旋"
+    },
+    {
+      "key": "S Curve",
+      "value": "S 形"
+    },
+    {
+      "key": "Single",
+      "value": "单轮"
+    },
+    {
+      "key": "Single Arch",
+      "value": "单轮拱形"
+    },
+    {
+      "key": "Single Arched",
+      "value": "单轮拱形"
+    },
+    {
+      "key": "Single Caged",
+      "value": "单轮笼式"
+    },
+    {
+      "key": "Single Hub",
+      "value": "单轮轮毂式"
+    },
+    {
+      "key": "Single Offset",
+      "value": "单轮偏置"
+    },
+    {
+      "key": "Single Slim",
+      "value": "单轮窄式"
+    },
+    {
+      "key": "Single Straddled",
+      "value": "单轮跨式"
+    },
+    {
+      "key": "Slanted",
+      "value": "斜角"
+    },
+    {
+      "key": "Spilt Tip",
+      "value": "分体桨尖"
+    },
+    {
+      "key": "Split Tip",
+      "value": "分体桨尖"
+    },
+    {
+      "key": "Stout",
+      "value": "粗壮式"
+    },
+    {
+      "key": "Straight",
+      "value": "直筒"
+    },
+    {
+      "key": "Swept",
+      "value": "后掠"
+    },
+    {
+      "key": "SweptLarge",
+      "value": "大后掠"
+    },
+    {
+      "key": "SweptSplit",
+      "value": "分裂后掠"
+    },
+    {
+      "key": "Tapered",
+      "value": "锥形"
+    },
+    {
+      "key": "Trailing Arm",
+      "value": "拖曳臂"
+    },
+    {
+      "key": "Trailing LInk",
+      "value": "拖曳连杆"
+    },
+    {
+      "key": "Triple",
+      "value": "三轮"
+    },
+    {
+      "key": "Tripod",
+      "value": "三脚式"
+    },
+    {
+      "key": "Vented Chevron",
+      "value": "开孔人字形"
+    },
+    {
+      "key": "Vented Tapered I",
+      "value": "开孔锥形 I"
+    },
+    {
+      "key": "Vented Tapered II",
+      "value": "开孔锥形 II"
+    },
+    {
+      "key": "Vented Tapered III",
+      "value": "开孔锥形 III"
+    },
+    {
+      "key": "Wide Chevron",
+      "value": "宽人字形"
+    },
+    {
+      "key": "Wide Tapered I",
+      "value": "宽锥形 I"
+    },
+    {
+      "key": "Wide Tapered II",
+      "value": "宽锥形 II"
+    },
+    {
+      "key": "Wide Tapered III",
+      "value": "宽锥形 III"
+    }
+  ]
+}

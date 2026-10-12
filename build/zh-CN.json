@@ -1611,9 +1611,11 @@
     "Wrap Mode": "环绕模式",
     "Enabled": "已启用",
     "Enter input expression.": "请输入输入表达式。",
+    "\"A Million Little Runways\"": "“百万小跑道”",
     "**Curved Fuselages**": "**弧形机身**",
     "**Turboshafts**": "**涡轮轴发动机**",
     "<color=#6AAFE6><b><size=115%>New Parts</size></b></color>": "<color=#6AAFE6><b><size=115%>新零件</size></b></color>",
+    "<color=#ffffff80>No part selected": "<color=#ffffff80>未选择零件",
     "A new family of turbine engines built for driving propellers and shafts. Turboshafts come in small, medium, and large sizes and hook into the existing powertrain through a new set of gearbox parts.": "全新的燃气涡轮发动机系列，用于驱动螺旋桨与传动轴。涡轮轴发动机提供小、中、大三种尺寸，并通过一套全新的变速箱零件接入现有的动力系统。",
     "A new three-slice fuselage style with": "全新三段式机身造型，",
     "A-Frame": "A 型架起落架",
@@ -1622,22 +1624,36 @@
     "A-Frame Bare\nThe A-frame bush leg stripped to a bare frame. Same rough-field grit, a little lighter.": "A 型架起落架（裸架）\n把 A 型架越野支柱剥到只剩框架。同样的野外脾气，稍微轻一点。",
     "ANIMATION": "动画",
     "Action": "操作",
+    "Activator": "触发器",
+    "Add Control Surface": "添加操纵面",
     "Add New Property": "添加新属性",
     "Add SimplePlanes 2 to your Steam Wishlist": "将 SimplePlanes 2 加入 Steam 愿望单",
     "Add Variable": "添加变量",
     "Add a new tag using the input field on the left": "使用左侧输入框添加新标签",
+    "Add a small wheel in the back to keep the tail out of the dirt.": "在尾部加一个小轮子，别让机尾蹭到地面。",
+    "Add the wing landing gear here.": "在这里添加机翼起落架。",
     "Add this item to your favorites": "将此项目加入收藏",
+    "Adds a launch bar that swings down to connect to an aircraft carrier catapult.": "增加一根可向下摆出、用于连接航母弹射器的弹射杆。",
+    "Adds a second set of blades spinning the opposite way.": "增加一组反向旋转的桨叶。",
     "Adjust the offset of the mirror plane from the root part of the craft.": "调整镜像平面相对载具根零件的偏移。",
     "Adjusts the density of the trees. Higher settings mean more trees being rendered on screen, which can reduce performance.": "调整树木密度。设置越高，屏幕上渲染的树木越多，可能降低性能。",
+    "Adjusts the maximum output RPM. Power stays constant, so lower RPM means more torque.": "调整最大输出转速。功率不变，因此转速越低扭矩越大。",
     "Adjusts the quality and view distance of shadows. Shadow quality can have a performance impact on both CPU and GPU performance.": "调整阴影质量与可视距离。阴影质量会同时影响 CPU 与 GPU 性能。",
     "Adjusts the quality of the physics simulation. Lower quality levels can improve performance in CPU limited situations. At lower quality levels some craft may become unstable, resulting in vibrations, oscillations, bouncing, exploding, and other forms of chaos.": "调整物理模拟质量。在 CPU 受限时，降低质量可以提升性能。质量较低时，部分载具可能变得不稳定，出现抖动、振荡、弹跳、爆散等各种混乱表现。",
     "Adjusts the quality of the water. This can impact visual effects as well as some physics effects.": "调整水体质量。这会影响视觉效果，也可能影响部分物理效果。",
     "Adjusts the visual quality of the clouds, sky, and fog. Higher settings are very GPU heavy. Lowering this setting can have big performance gains for GPU limited situations.": "调整云、天空与雾的视觉质量。高设置会显著增加 GPU 负担。在 GPU 受限时，降低此项可以大幅提升性能。",
     "Adjusts the visual quality of the terrain's surface. Higher settings are very GPU heavy. Lowering this setting can have big performance gains for GPU limited situations.": "调整地形表面的视觉质量。高设置会显著增加 GPU 负担。在 GPU 受限时，降低此项可以大幅提升性能。",
+    "Advanced": "高级",
     "Aero": "气动整流起落架",
     "Aero\nA streamlined light-aircraft leg with a faired wheel pant. Low drag for slow, sporty flyers.": "气动整流起落架\n带整流轮罩的流线型轻型飞机支柱。阻力低，适合慢速运动型飞机。",
+    "Aero FX": "气动特效",
+    "Afterburner Unsupported": "不支持加力燃烧",
+    "Aichi Go": "爱知号",
+    "AirLiner Front": "客机式前起落架",
+    "AirLiner Rear": "客机式后起落架",
     "Aircraft Downloaded": "载具下载完成",
     "Aircraft download canceled": "已取消载具下载",
+    "Airfoil": "翼型",
     "Airliner Front": "客机前起落架",
     "Airliner Front\nA tall twin-wheel nose gear for airliners and large jets.": "客机前起落架\n为客机和大型喷气机准备的高大双轮前起落架。",
     "Airliner Rear": "客机主起落架",
@@ -1649,24 +1665,42 @@
     "Animator": "动画器",
     "Aperture": "光圈",
     "Apply XML changes": "应用 XML 修改",
+    "Arcade": "街机",
     "Assign Controller": "分配控制器",
+    "Auto Feather": "自动顺桨",
+    "Auto Hinge Axis": "自动铰链轴",
     "Autosave Count": "自动保存数量",
     "Autosave Interval (Minutes)": "自动保存间隔（分钟）",
+    "Base Thickness": "根部厚度",
     "Beefcake": "壮硕起落架",
     "Beefcake\nA beefy main leg with long suspension travel and a fat tire. All muscle on rough landings.": "壮硕起落架\n粗壮的主支柱，长行程悬挂加肥厚轮胎。硬着陆全靠肌肉硬扛。",
+    "Blade pitch can be fixed, hold a constant RPM automatically, or follow an input controller.": "桨距可以固定、自动保持恒定转速，或跟随输入控制器。",
     "Blue": "蓝",
+    "Bottom Offset": "底部偏移",
+    "Bottom Width": "底部宽度",
+    "Boulder": "巨砾",
+    "Bounciness": "弹力",
     "Braced": "支撑式前起落架",
     "Braced\nA braced V-frame nose gear fitted with a launch bar.": "支撑式前起落架\n带弹射杆的支撑式 V 型架前起落架。",
+    "Bullet Proof": "防弹级",
+    "Bush Frame": "丛林框架式",
     "COLOR PICKER": "颜色选择器",
     "CUSTOMIZE CHARACTER": "自定义角色",
+    "Cable Deceleration": "线缆减速",
     "Calibrate Controller": "校准控制器",
     "Calibration": "校准",
+    "Catapult Compression": "弹射器压缩行程",
     "Category": "分类",
     "Change view\nShortcut: [not set]": "切换视角\n快捷键：[未设置]",
+    "Changes how many are duplicated around the missile.": "改变导弹周围复制出的数量。",
+    "Changes the length of the nozzle. Does not affect performance.": "改变尾喷口长度，不影响性能。",
+    "Changes the length of the shroud.": "改变整流罩长度。",
     "Chat with other players on our Discord server": "在我们的 Discord 服务器上与其他玩家交流",
     "Check out our Discord server!": "来看看我们的 Discord 服务器！",
+    "Chevron Classic": "经典人字纹",
     "Choose image": "选择图片",
     "Choose the shape editing mode for the trapezoid shape tool.": "选择梯形形状工具的造型编辑模式。",
+    "Circuit": "赛道",
     "Clear all filters": "清除所有筛选器",
     "Clear profiler": "清除性能分析数据",
     "Clear this pose for this keyframe": "清除此关键帧的姿态",
@@ -1675,10 +1709,17 @@
     "Client": "客户端",
     "Close this activity": "关闭此活动",
     "Close window": "关闭窗口",
+    "Cockpit Hole": "座舱开孔",
+    "Collective Drag": "总距阻力",
+    "Collective Torque": "总距扭矩",
+    "Compressor Stages": "压气机级数",
     "Connect aircraft to catapult": "将载具连接到弹射器",
+    "Connection added": "已添加连接",
+    "Contra-Rotating": "对转",
     "Control Settings": "控制设置",
     "Controller Sensitivity": "控制器灵敏度",
     "Controls how this part reacts to collisions: whether it can disconnect, explode, or neither.": "控制此零件在碰撞时的反应：是否可以脱离、爆炸，或两者都不发生。",
+    "Controls the order in which decals are rendered when they are overlapping": "控制贴花重叠时的渲染顺序",
     "Countermeasures\nShortcut: [not set]": "干扰物\n快捷键：[未设置]",
     "Create Keyframe": "创建关键帧",
     "Create a keyframe at the playhead": "在播放头处创建关键帧",
@@ -1686,52 +1727,96 @@
     "Current throttle\nShortcut: [not set]": "当前油门\n快捷键：[未设置]",
     "Curved Fuselage": "弧形机身",
     "Curved Fuselage\nA procedural curvy fuselage section. Customize its shape, size, and thickness.": "弧形机身\n程序化弧形机身段。可自定义其形状、尺寸与厚度。",
+    "Custom Input": "自定义输入",
     "Cutting Type": "切割类型",
     "Cycle hidden parts view mode\nShortcut: [not set]": "切换隐藏零件显示模式\n快捷键：[未设置]",
+    "Cyclic Motor Drag": "周期变距电机阻力",
+    "Cyclic Pitch Expo": "周期变距俯仰指数",
+    "Cyclic RPM Falloff Expo": "周期变距转速衰减指数",
+    "Cyclic Roll Expo": "周期变距横滚指数",
+    "Cyclic Strength": "周期变距强度",
     "Damage Visualizer": "伤害可视化",
+    "Damper Scale": "阻尼系数",
+    "Dangerous Modifications Detected": "检测到危险修改",
     "Dead": "已损毁",
+    "Delay": "延迟",
+    "Delete Control Surface": "删除操纵面",
     "Delete Excess Autosave Files": "删除多余的自动保存文件",
     "Delete Excess Quicksave Files": "删除多余的快速保存文件",
     "Delete Keyframe": "删除关键帧",
     "Delete Property": "删除属性",
+    "Density": "密度",
     "Depth of Field": "景深",
+    "Describe the bug and how to reproduce it": "描述这个 bug 以及如何复现",
     "Deselect part": "取消选择零件",
+    "Designer Tutorial": "设计器教程",
+    "Detach Direction": "分离方向",
+    "Detach Force": "分离力",
+    "Determines which parts are affected.": "决定受影响的零件。",
+    "Dimensions": "尺寸",
     "Disable Chat": "禁用聊天",
+    "Disabled During Tutorial": "教程期间不可用",
     "Disables the multiplayer chat window. This will prevent you from seeing chat messages and sending chat messages to other players.": "禁用多人聊天窗口。禁用后你将看不到聊天消息，也无法向其他玩家发送消息。",
     "Discard XML changes.": "放弃 XML 修改。",
     "Dismiss invite": "忽略邀请",
     "Do Not Kick": "不要踢出",
     "Don't have an account?": "还没有账号？",
+    "Door Style": "舱门样式",
+    "Door Thickness": "舱门厚度",
+    "Double": "双轮",
+    "Double Cage": "双轮笼式",
+    "Double Double": "双联双轮",
     "Downloaded craft": "已下载载具",
     "Downloading": "下载中",
+    "Downloading crafts is disabled while the tutorial is running.": "教程运行期间无法下载载具。",
+    "Draft Master": "气流大师",
+    "Drag": "阻力",
     "Drag the playhead to preview the animation": "拖动播放头以预览动画",
     "Drag the playhead to scrub the animation": "拖动播放头以浏览动画",
+    "Driven By": "驱动方式",
     "Duration": "持续时间",
     "Edit Animation": "编辑动画",
+    "Edit Dihedral": "编辑上反角",
     "Edit Position": "编辑位置",
     "Edit Rotation": "编辑旋转",
+    "Edit Wing Shape": "编辑机翼形状",
     "Edit part XML in-game. **Can break parts and craft loading.**": "在游戏内编辑零件 XML。**可能导致零件与载具加载异常。**",
     "Edit the parent animator this one is linked under": "编辑此动画器所链接的父动画器",
+    "Enable the hole cutting outlines by clicking the indicated button. You can also use the '/' key.": "点击指示的按钮即可开启切孔轮廓线。也可以按“/”键。",
     "Enables Overload, an advanced part property XML Editor, in the designer.": "在设计器中启用 Overload —— 一个高级的零件属性 XML 编辑器。",
+    "Engine Direction": "引擎朝向",
+    "Engine vents whatever the selected engine is burning. Input drives the plume from any input or expression.": "排气管排放所选发动机正在燃烧的产物。输入可用任意输入或表达式驱动尾焰。",
     "Enter / Exit Aircraft\nShortcut: [not set]": "进入/离开飞机\n快捷键：[未设置]",
     "Exclude crafts with this tag from the list": "从列表中排除带有此标签的载具",
     "Exhaust": "排气管",
     "Exhaust\nA single exhaust pipe. Attach it to any engine and it emits whatever that engine is burning. Place several to build a set of headers or a collector ring — the engine splits its gas between all of them, so eight pipes each puff an eighth rather than eight times the smoke.": "排气管\n一根排气管。装到任意发动机上，它就会排出该发动机燃烧的废气。多放几根可以拼出排气歧管或集气环——发动机会把废气分配给所有排气管，所以八根管子每根只分到八分之一。",
+    "Exhaust FX": "排气特效",
     "Exit Activity": "退出活动",
     "Exit credits": "退出制作人员名单",
     "Exit this activity": "退出此活动",
+    "Expression": "表达式",
+    "Fin Mode": "尾翼模式",
     "Fire Guns\nShortcut: [not set]": "开火炮\n快捷键：[未设置]",
     "Fire Weapon": "发射武器",
     "Fire Weapon\nShortcut: [not set]": "发射武器\n快捷键：[未设置]",
+    "Firing Delay": "发射延迟",
     "Fix the mirror plane offset of the mirrored part to match the offset of the selected part.": "修正镜像零件的镜像平面偏移，使其与所选零件的偏移一致。",
+    "Flat Tapered I": "扁平锥形 I",
+    "Flat Tapered II": "扁平锥形 II",
+    "Flat Tapered III": "扁平锥形 III",
+    "Flips the assembly's layout. The exact behavior depends on the selected wheel-assembly style.": "翻转轮组布局。具体效果取决于所选的轮组形式。",
+    "Flips the gear leg to the other side.": "把起落架支柱翻到另一侧。",
+    "Float": "浮力",
     "Foam": "泡沫",
     "Focal Size": "焦距尺寸",
     "Forged": "锻造起落架",
     "Forged\nA nose leg with a solid strut.": "锻造起落架\n采用实心支柱的前起落架。",
     "Forgot your password?": "忘记密码？",
+    "Friction": "摩擦力",
     "Fuselage Run": "机身水平偏移",
     "GA Bent": "通航弯管起落架",
     "GA Bent\nA small, springy cantilever strut.": "通航弯管起落架\n小巧而有弹性的悬臂支柱。",
+    "GT Heritage": "GT 经典传承",
     "Gear Bay": "起落架舱",
     "Gear Bay\nCuts a wheel well into your fuselage and fits doors that open and close with the landing gear. Gives retractable gear a place to tuck away.": "起落架舱\n在机身上开出一个轮舱，并配上随起落架开合的舱门。让可收放起落架有个收纳之处。",
     "Gear Leg": "起落架支柱",
@@ -1745,16 +1830,33 @@
     "Go back a step": "返回上一步",
     "Grab craft blueprint": "抓取载具蓝图",
     "Green": "绿",
+    "Groovy": "律动",
+    "Ground Effect": "地面效应",
+    "Growth": "增长幅度",
+    "Gyroscopic Lag": "陀螺延迟",
     "Heavy\nA heavy-duty main leg on a four-wheel bogie. Built to haul serious weight.": "重型起落架\n装在四轮转向架上的重型主支柱。为搬运真正的大重量而生。",
+    "Heavy Scissor": "重型剪式",
     "Hemisphere\nSometimes you don't need a whole sphere. Sometimes you just need half of a sphere.": "半球体\n有时你不需要一整个球。有时你只需要半个球。",
     "Hex Code": "十六进制色码",
+    "Hide Glass": "隐藏玻璃",
     "Higher tick rates for a smoother experience but it does cost more bandwidth.": "更高的 Tick 率带来更流畅的体验，但会消耗更多带宽。",
     "Highlighted": "高亮",
+    "Hinge Position 1": "铰链位置 1",
+    "Hinge Position 2": "铰链位置 2",
     "Hold Shift or Alt while dragging a gizmo to change how it behaves.": "拖动变换控件时按住 Shift 或 Alt 可改变其行为。",
     "Hole": "开孔",
     "Hole\nCarve a customizable opening into fuselage parts to create cargo bays, bomb bays, wheel wells, and more. Only works with fuselage parts.": "开孔\n在机身类零件上挖出可自定义的开口，用来做货舱、弹舱、轮舱等等。只对机身类零件有效。",
     "Hollow\nA slightly lighter nose leg with a hollowed strut.": "空心起落架\n采用空心支柱、略微更轻的前起落架。",
+    "How big each particle is.": "每个粒子的大小。",
+    "How far past flat the blades turn at full reverse input. Zero disables reverse thrust.": "反推输入拉满时桨叶越过零距的角度。设为 0 则禁用反推。",
     "How far this gear must be extended before the connected wheel simulates its suspension. Below this the wheel falls back to a plain collider. Set to 0 to keep the wheel simulating at every extension.": "起落架需要伸出到多远，相连的机轮才会开始模拟悬挂。低于此值时，机轮会退化为普通碰撞体。设为 0 可让机轮在任何伸出量下都参与模拟。",
+    "How hard the gas shoots out of the pipe.": "气体喷出管口的力度。",
+    "How long particles last before fading.": "粒子从出现到消失的持续时间。",
+    "How many particles the plume emits. Turn it up for thick smoke, down for a thin haze.": "尾焰喷出的粒子数量。调高是浓烟，调低是薄雾。",
+    "How much the plume billows out as it trails away.": "尾焰拖远时扩散的程度。",
+    "How quickly the air slows the plume down.": "空气让尾焰减速的快慢。",
+    "How strongly the effect shows.": "效果的明显程度。",
+    "How wide the plume opens up.": "尾焰张开的宽度。",
     "Huge thank you to these amazing people!": "衷心感谢这些了不起的人！",
     "If false, drag is not calculated for this part.": "若为否，则不为该零件计算阻力。",
     "If false, this part is hidden in the designer.": "若为否，该零件在设计器中会被隐藏。",
@@ -1765,6 +1867,7 @@
     "Invert Pitch": "反转俯仰",
     "Invert hidden parts\nShortcut: [not set]": "反转隐藏零件\n快捷键：[未设置]",
     "Invite friends to this server": "邀请好友加入此服务器",
+    "It greatly increases the power of the engine but it decreases efficiency.": "大幅提升发动机功率，但会降低效率。",
     "Ivan": "伊万式起落架",
     "Ivan\nA rugged V-frame nose leg with a long piston strut, styled after heavy Eastern-bloc jets.": "伊万式起落架\n粗犷的 V 型架前起落架，配长活塞支柱，造型源自重型东方阵营喷气机。",
     "Join Team": "加入队伍",
@@ -1775,6 +1878,7 @@
     "Landscape": "横向",
     "Large Turboprop": "大型涡桨发动机",
     "Large Turboprop\nThe biggest turbine we make that still turns a propeller. Enough shaft power to demand contra-rotating props and your full attention.": "大型涡桨发动机\n我们造过的、还能带动螺旋桨的最大燃气轮机。轴功率大到必须用对转螺旋桨，也大到需要你全神贯注。",
+    "LargeSlanted": "大斜角",
     "Launch from catapult!": "从弹射器起飞！",
     "Layout": "布局",
     "Legacy Angled Corner": "旧版斜角转角块",
@@ -1831,12 +1935,16 @@
     "Legacy Structural Wing\nStronger than a normal wing and it does provide lift, but it cannot have control surfaces. Also, it's heavier.": "旧版结构翼\n比普通机翼更结实，也确实能提供升力，但不能安装控制面。而且它更重。",
     "Legacy Vertical Stabilizer": "旧版垂直安定面",
     "Legacy Vertical Stabilizer\nWing section with a rudder. Vertical stabilizers help to keep the airplane from unwanted drifting to the left or right.": "旧版垂直安定面\n带方向舵的翼段。垂直安定面能防止飞机不受控地向左或向右偏航。",
+    "Let's reset the view now. Click the flashing button in the top right.": "现在重置一下视角。点击右上角闪烁的按钮。",
     "Lever": "杠杆式起落架",
     "Lever\nA lever-action main leg with long suspension travel for soft, springy touchdowns.": "杠杆式起落架\n杠杆式主支柱，悬挂行程长，着陆柔和有弹性。",
+    "Lifetime": "存续时间",
     "Limits how many bullets each craft can create per second. The limit is shared fairly among all guns on the craft.": "限制每架载具每秒可生成的子弹数量。该上限由载具上所有机炮公平共享。",
     "Limits the maximum refresh rate of the game to improve battery life and reduce overheating.": "限制游戏的最大刷新率，以改善续航并减少过热。",
+    "Links this animator under another so they share one timeline.": "把这个动画器挂到另一个之下，使它们共用一条时间轴。",
     "Log Out": "退出登录",
     "Logging In...": "正在登录…",
+    "Long Nose": "长机头",
     "MULTIPLAYER SETTINGS": "多人设置",
     "Main Landing Gear": "主起落架",
     "Manage Player Bans": "管理玩家封禁",
@@ -1847,56 +1955,447 @@
     "Mirrored Offset": "镜像偏移",
     "Mirrored Part": "镜像零件",
     "Moderate": "中等",
+    "More blades give more thrust at the same RPM, but more drag and mass to spin.": "相同转速下桨叶越多推力越大，但阻力与转动惯量也更大。",
+    "More stages improve fuel efficiency and power, but add length and mass.": "级数越多，燃油效率与功率越高，但长度与质量也会增加。",
     "Move Part Tool\nSelect, move, and attach parts to build your craft.\nShortcut: [not set]": "移动零件工具\n选择、移动并连接零件，用来建造你的载具。\n快捷键：[未设置]",
+    "Mud Butte": "泥地孤峰",
     "Multiplayer": "多人游戏",
     "Multiplayer Settings": "多人设置",
+    "Must be a number.": "必须填数字。",
+    "Must be a whole number.": "必须填整数。",
     "Name ▲": "名称 ▲",
     "Network Stats": "网络统计",
     "New Property Name": "新属性名称",
     "New Property Value": "新属性值",
     "Next keyframe": "下一个关键帧",
     "Next tick": "下一个 Tick",
+    "No Part Selected": "未选择零件",
+    "Nomad": "游牧者",
     "Normal": "正常",
     "Nose Landing Gear": "前起落架",
+    "Now click the Side View button.": "现在点击“侧视图”按钮。",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate1</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate1</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate2</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate2</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate3</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate3</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate4</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate4</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate5</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate5</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate6</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate6</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate7</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate7</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Activate8</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Activate8</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Brake（刹车）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Brake（刹车）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Flaps（襟翼）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Flaps（襟翼）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Pitch（俯仰）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Pitch（俯仰）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Roll（滚转）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Roll（滚转）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Pitch Back</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Pitch Back</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Pitch Forward</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Pitch Forward</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Pitch</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Pitch</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Roll Left</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Roll Left</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Roll Right</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Roll Right</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Roll</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Roll</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Yaw Left</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Yaw Left</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Yaw Right</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Yaw Right</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Test Yaw</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Test Yaw</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Throttle（油门）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Throttle（油门）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Trim（配平）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Trim（配平）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>VTOL 向上</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>VTOL 向上</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>VTOL 向下</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>VTOL 向下</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>Yaw（偏航）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>Yaw（偏航）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>上一个武器</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>上一个武器</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>上一个目标</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>上一个目标</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>上一个视角</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>上一个视角</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>下一个武器</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>下一个武器</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>下一个目标</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>下一个目标</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>下一个视角</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>下一个视角</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>互动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>互动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>从此处重新开始</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>从此处重新开始</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>伤害可视化</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>伤害可视化</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>低头</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>低头</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>保存载具</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>保存载具</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>减小刹车</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>减小刹车</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>减小油门</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>减小油门</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>分类</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>分类</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>切换模式</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>切换模式</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>切换瞄准模式</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>切换瞄准模式</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>切换隐藏类型</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>切换隐藏类型</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>删除所选零件</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>删除所选零件</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>反向调整零件</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>反向调整零件</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>反选隐藏零件</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>反选隐藏零件</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>发射干扰物</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>发射干扰物</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>取消关联对称（单个零件）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>取消关联对称（单个零件）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向上传送</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上传送</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向上平移</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上平移</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向上旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向上看</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上看</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向上转动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上转动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向上配平</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向上配平</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向下传送</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下传送</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向下平移</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下平移</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向下旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向下看</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下看</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向下转动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下转动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向下配平</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向下配平</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向内平移</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向内平移</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向前移动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向前移动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向右偏航</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右偏航</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向右平移</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右平移</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向右旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向右滚转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右滚转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向右看</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右看</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向右移动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右移动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向右转动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向右转动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向后看</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向后看</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向后看（右）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向后看（右）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向后看（左）</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向后看（左）</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向后移动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向后移动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向外平移</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向外平移</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向左偏航</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左偏航</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向左平移</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左平移</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向左旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向左滚转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左滚转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向左看</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左看</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向左移动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左移动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>向左转动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>向左转动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>启用相机视角控制</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>启用相机视角控制</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>增加刹车</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>增加刹车</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>增大油门</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>增大油门</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>布局</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>布局</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>座舱视角</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>座舱视角</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关剖切可视性</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关剖切可视性</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关对称面板</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关对称面板</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关幽灵视图</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关幽灵视图</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关快进</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关快进</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关慢动作</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关慢动作</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关搜索零件面板</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关搜索零件面板</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关正交视图</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关正交视图</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关涂装面板</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关涂装面板</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关自动驾驶</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关自动驾驶</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关菜单</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关菜单</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关蓝图面板</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关蓝图面板</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关贴花可视性</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关贴花可视性</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关零件变换面板</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关零件变换面板</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关零件属性面板</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关零件属性面板</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关零件轮廓显示</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关零件轮廓显示</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关面板</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关面板</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关风力设置</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关风力设置</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关驻车制动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关驻车制动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关鼠标操纵杆</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关鼠标操纵杆</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开关鼠标视角控制</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开关鼠标视角控制</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开发者控制台</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开发者控制台</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>开火炮</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>开火炮</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 X+</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 X+</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 X-</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 X-</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 Y+</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 Y+</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 Y-</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 Y-</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 Z+</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 Z+</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>微调零件 Z-</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>微调零件 Z-</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>快速保存</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>快速保存</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>快速保存载具</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>快速保存载具</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>截图模式</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>截图模式</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>抬头</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>抬头</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>按钮</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>按钮</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>掠过视角</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>掠过视角</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>撤销</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>撤销</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>操作</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>操作</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>收上襟翼</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>收上襟翼</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>放下襟翼</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>放下襟翼</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>放大</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>放大</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>暂停</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>暂停</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>最大油门</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>最大油门</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>横向移动</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>横向移动</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>正向调整零件</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>正向调整零件</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>武器开火</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>武器开火</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>水平偏移</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>水平偏移</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>清空隐藏零件列表</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>清空隐藏零件列表</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 1</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 1</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 2</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 2</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 3</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 3</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 4</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 4</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 5</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 5</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 6</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 6</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 7</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 7</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>激活组 8</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>激活组 8</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>玩家</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>玩家</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>环绕视角</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>环绕视角</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>相机回正</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>相机回正</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>系统</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>系统</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>缩小</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>缩小</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>缩放</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>缩放</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>缩放瞄准吊舱</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>缩放瞄准吊舱</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>自定义相机 1</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自定义相机 1</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>自定义相机 2</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自定义相机 2</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>自定义相机 3</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自定义相机 3</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>自定义相机 4</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自定义相机 4</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>自毁</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>自毁</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>起落架</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>起落架</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>跳舞</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>跳舞</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>跳跃</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>跳跃</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>蹲伏</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>蹲伏</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>轴</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>轴</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>追踪视角</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>追踪视角</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>选择平移工具</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择平移工具</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>选择并聚焦零件</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择并聚焦零件</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>选择旋转工具</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择旋转工具</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>选择移动工具</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择移动工具</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>选择视图工具</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>选择视图工具</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>重做</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重做</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>重新开始</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重新开始</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>重新连接所选零件</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重新连接所选零件</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>重置襟翼</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重置襟翼</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>重置配平</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>重置配平</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>隐藏零件</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>隐藏零件</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 X+ 旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 X+ 旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 X- 旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 X- 旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 Y+ 旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 Y+ 旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 Y- 旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 Y- 旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 Z+ 旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 Z+ 旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>零件绕 Z- 旋转</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件绕 Z- 旋转</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>零件调整上一模式</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件调整上一模式</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>零件调整下一模式</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零件调整下一模式</color>",
+    "Now press a button or move an axis to assign it to\n<color=#ffff00>零油门</color>": "现在按下按钮或移动轴，将其分配给\n<color=#ffff00>零油门</color>",
     "OG PLAYTESTERS AND STOCK CRAFT BUILDERS": "元老测试员与内置载具建造者",
     "Open the activity settings": "打开活动设置",
     "Open the animation editor to add keyframes and edit poses": "打开动画编辑器以添加关键帧并编辑姿态",
+    "Oval": "椭圆",
+    "Oval Tech": "椭圆科技",
     "Overload XML Editor": "Overload XML 编辑器",
     "Overload XML Modification": "Overload XML 修改",
     "PLAYER BANS": "玩家封禁",
     "Paint Tool\nCustomize the colors and textures of your craft.\nShortcut: [not set]": "喷涂工具\n自定义载具的颜色和纹理。\n快捷键：[未设置]",
+    "Pants Center": "轮罩中置",
+    "Pants Side": "轮罩侧式",
+    "Parent Animator": "父级动画器",
     "Parking Brake": "驻车制动",
     "Parking Brake\nShortcut: [not set]": "驻车制动\n快捷键：[未设置]",
     "Part Outlines": "零件轮廓",
     "Part Properties\nOpens the Part Properties menu for the selected part. Many parts have settings that can be customized.\nShortcut: [not set]": "零件属性\n打开所选零件的属性菜单。许多零件都有可自定义的设置。\n快捷键：[未设置]",
+    "Particle Size": "粒子大小",
     "Pause/resume profiler": "暂停/继续性能分析",
     "Peak": "峰值",
+    "Pilot Seat": "驾驶座",
     "Pitch Axis": "俯仰轴",
     "Play the animation": "播放动画",
     "Play the animation from start to end": "从头到尾播放动画",
     "Play the animation in reverse": "反向播放动画",
     "Player": "玩家",
     "Player Settings": "玩家设置",
+    "Plume Tuning": "尾焰调校",
     "Portrait": "纵向",
+    "Positive floats the plume upwards like hot smoke, negative lets it fall.": "正值让尾焰像热烟一样上浮，负值则下沉。",
+    "Press a key to assign it to\n<color=#ffff00>Activate1</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Activate1</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Activate2</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Activate2</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Activate3</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Activate3</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Activate4</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Activate4</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Activate5</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Activate5</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Activate6</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Activate6</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Activate7</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Activate7</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Activate8</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Activate8</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Brake（刹车）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Brake（刹车）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Flaps（襟翼）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Flaps（襟翼）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Pitch（俯仰）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Pitch（俯仰）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Roll（滚转）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Roll（滚转）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Test Pitch Back</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Test Pitch Back</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Test Pitch Forward</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Test Pitch Forward</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Test Pitch</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Test Pitch</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Test Roll Left</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Test Roll Left</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Test Roll Right</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Test Roll Right</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Test Roll</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Test Roll</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Test Yaw Left</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Test Yaw Left</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Test Yaw Right</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Test Yaw Right</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Test Yaw</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Test Yaw</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Throttle（油门）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Throttle（油门）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Trim（配平）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Trim（配平）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>VTOL 向上</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>VTOL 向上</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>VTOL 向下</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>VTOL 向下</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>Yaw（偏航）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>Yaw（偏航）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>上一个武器</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>上一个武器</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>上一个目标</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>上一个目标</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>上一个视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>上一个视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>下一个武器</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>下一个武器</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>下一个目标</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>下一个目标</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>下一个视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>下一个视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>互动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>互动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>从此处重新开始</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>从此处重新开始</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>伤害可视化</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>伤害可视化</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>低头</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>低头</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>保存载具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>保存载具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>减小刹车</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>减小刹车</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>减小油门</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>减小油门</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>分类</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>分类</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>切换模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>切换模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>切换瞄准模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>切换瞄准模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>切换隐藏类型</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>切换隐藏类型</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>删除所选零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>删除所选零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>反向调整零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>反向调整零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>反选隐藏零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>反选隐藏零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>发射干扰物</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>发射干扰物</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>取消关联对称（单个零件）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>取消关联对称（单个零件）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向上传送</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向上传送</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向上平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向上平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向上旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向上旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向上看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向上看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向上转动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向上转动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向上配平</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向上配平</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向下传送</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向下传送</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向下平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向下平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向下旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向下旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向下看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向下看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向下转动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向下转动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向下配平</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向下配平</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向内平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向内平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向前移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向前移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向右偏航</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向右偏航</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向右平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向右平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向右旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向右旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向右滚转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向右滚转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向右看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向右看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向右移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向右移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向右转动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向右转动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向后看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向后看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向后看（右）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向后看（右）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向后看（左）</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向后看（左）</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向后移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向后移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向外平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向外平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向左偏航</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向左偏航</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向左平移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向左平移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向左旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向左旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向左滚转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向左滚转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向左看</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向左看</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向左移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向左移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>向左转动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>向左转动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>启用相机视角控制</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>启用相机视角控制</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>增加刹车</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>增加刹车</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>增大油门</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>增大油门</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>布局</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>布局</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>座舱视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>座舱视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关剖切可视性</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关剖切可视性</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关对称面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关对称面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关幽灵视图</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关幽灵视图</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关快进</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关快进</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关慢动作</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关慢动作</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关搜索零件面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关搜索零件面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关正交视图</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关正交视图</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关涂装面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关涂装面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关自动驾驶</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关自动驾驶</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关菜单</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关菜单</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关蓝图面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关蓝图面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关贴花可视性</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关贴花可视性</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关零件变换面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关零件变换面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关零件属性面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关零件属性面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关零件轮廓显示</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关零件轮廓显示</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关面板</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关面板</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关风力设置</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关风力设置</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关驻车制动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关驻车制动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关鼠标操纵杆</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关鼠标操纵杆</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开关鼠标视角控制</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开关鼠标视角控制</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开发者控制台</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开发者控制台</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>开火炮</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>开火炮</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>微调零件 X+</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 X+</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>微调零件 X-</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 X-</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>微调零件 Y+</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 Y+</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>微调零件 Y-</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 Y-</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>微调零件 Z+</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 Z+</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>微调零件 Z-</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>微调零件 Z-</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>快速保存</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>快速保存</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>快速保存载具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>快速保存载具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>截图模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>截图模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>抬头</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>抬头</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>按钮</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>按钮</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>掠过视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>掠过视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>撤销</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>撤销</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>操作</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>操作</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>收上襟翼</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>收上襟翼</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>放下襟翼</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>放下襟翼</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>放大</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>放大</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>暂停</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>暂停</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>最大油门</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>最大油门</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>横向移动</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>横向移动</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>正向调整零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>正向调整零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>武器开火</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>武器开火</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>水平偏移</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>水平偏移</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>清空隐藏零件列表</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>清空隐藏零件列表</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>激活组 1</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>激活组 1</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>激活组 2</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>激活组 2</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>激活组 3</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>激活组 3</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>激活组 4</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>激活组 4</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>激活组 5</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>激活组 5</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>激活组 6</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>激活组 6</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>激活组 7</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>激活组 7</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>激活组 8</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>激活组 8</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>玩家</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>玩家</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>环绕视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>环绕视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>相机回正</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>相机回正</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>系统</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>系统</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>缩小</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>缩小</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>缩放</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>缩放</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>缩放瞄准吊舱</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>缩放瞄准吊舱</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>自定义相机 1</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>自定义相机 1</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>自定义相机 2</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>自定义相机 2</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>自定义相机 3</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>自定义相机 3</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>自定义相机 4</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>自定义相机 4</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>自毁</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>自毁</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>起落架</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>起落架</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>跳舞</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>跳舞</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>跳跃</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>跳跃</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>蹲伏</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>蹲伏</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>轴</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>轴</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>追踪视角</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>追踪视角</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>选择平移工具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>选择平移工具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>选择并聚焦零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>选择并聚焦零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>选择旋转工具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>选择旋转工具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>选择移动工具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>选择移动工具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>选择视图工具</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>选择视图工具</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>重做</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>重做</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>重新开始</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>重新开始</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>重新连接所选零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>重新连接所选零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>重置襟翼</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>重置襟翼</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>重置配平</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>重置配平</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>隐藏零件</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>隐藏零件</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>零件绕 X+ 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 X+ 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>零件绕 X- 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 X- 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>零件绕 Y+ 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 Y+ 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>零件绕 Y- 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 Y- 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>零件绕 Z+ 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 Z+ 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>零件绕 Z- 旋转</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>零件绕 Z- 旋转</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>零件调整上一模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>零件调整上一模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>零件调整下一模式</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>零件调整下一模式</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
+    "Press a key to assign it to\n<color=#ffff00>零油门</color>\n\nModifier keys may also be used. To assign a modifier key alone, hold it down for 1 second.": "按下一个按键，将其分配给\n<color=#ffff00>零油门</color>\n\n也可以使用修饰键。若要单独分配修饰键，请按住 1 秒。",
     "Pressed": "按下",
+    "Pressure Ratio": "压比",
     "Prevent players from crashing your party with a huge craft.": "防止玩家用超大载具搞崩你的房间。",
     "Previous keyframe": "上一个关键帧",
     "Previous tick": "上一个 Tick",
+    "Primary Color": "主色",
+    "Pro tip 2: Hold 'Left Shift' while moving or cloning to affect only the selected part. It also toggles Selected/Connected mode for the Rotate and Translate tools.": "进阶技巧 2：移动或复制时按住“左 Shift”，可只影响选中的零件。它还能在旋转与平移工具中切换“仅选中／相连”模式。",
     "Progress": "进度",
+    "Prop Engine": "螺旋桨发动机",
+    "Property Value": "属性值",
+    "Pushes the plume out of the pipe or pulls it back in.": "把尾焰推出管外或吸回管内。",
+    "Quad": "四轮",
+    "Quad Offset": "四轮偏置",
+    "Quad Z": "四轮 Z 型",
     "Quicksave": "快速保存",
     "Quicksave Count": "快速保存数量",
     "Quicksave Craft": "快速保存载具",
     "Quit the tutorial": "退出教程",
     "RESET": "重置",
+    "Raked Chevron": "后掠人字形",
+    "Raked Tapered I": "后掠锥形 I",
+    "Raked Tapered II": "后掠锥形 II",
+    "Raked Tapered III": "后掠锥形 III",
+    "Rally Raider": "拉力掠夺者",
+    "Rated Torque": "额定扭矩",
     "Ready!": "已就绪！",
     "Recenter view": "视角回正",
     "Recenter view\nShortcut: [not set]": "视角回正\n快捷键：[未设置]",
     "Red": "红",
     "Redo\nRe-apply the last action that was undone.\nShortcut: [not set]": "重做\n快捷键：[未设置]",
+    "Reduces the turning angle as speed increases.": "速度越快，转向角度越小。",
     "Register Here": "在此注册",
+    "Rel Wind - Peak Speed": "相对气流 - 峰值速度",
+    "Rel Wind Lift": "相对气流升力",
+    "Rel Wind Motor Torque": "相对气流电机扭矩",
     "Reloads your craft at your current position.\nShortcut: [not set]": "在当前位置重新加载载具。\n快捷键：[未设置]",
     "Reloads your craft at your starting position.\nShortcut: [not set]": "在起始位置重新加载载具。\n快捷键：[未设置]",
-    "Remove": "移除",
     "Remove the keyframe at the playhead": "移除播放头处的关键帧",
     "Rename": "重命名",
     "Report this server as offensive": "举报此服务器",
@@ -1906,25 +2405,47 @@
     "Restart the current step": "重新开始当前步骤",
     "Restart this activity": "重新开始此活动",
     "Restore Default Settings": "恢复默认设置",
+    "Reverse Pitch": "反距",
+    "Reverses the direction of the spin.": "反转旋转方向。",
+    "Reverses the spin direction and flips the blades to match.": "反转旋转方向并相应翻转桨叶。",
     "Roadmap": "路线图",
+    "Ronin 6": "浪人 6",
     "Rotate Part 90° around X-axis\nShortcut: [not set]": "绕 X 轴旋转零件 90°\n快捷键：[未设置]",
     "Rotate Part 90° around Y-axis\nShortcut: [not set]": "绕 Y 轴旋转零件 90°\n快捷键：[未设置]",
     "Rotate Part 90° around Z-axis\nShortcut: [not set]": "绕 Z 轴旋转零件 90°\n快捷键：[未设置]",
     "Rotate Tool\nPrecisely rotate parts using gizmos without altering part connections.\nShortcut: [not set]": "旋转工具\n使用变换控件精确旋转零件，且不会改变零件连接关系。\n快捷键：[未设置]",
+    "Rotor Tensor": "旋翼惯量",
+    "Running hotter produces more power from the same engine, at the cost of heavier alloys and cooling.": "温度越高，同一台发动机功率越大，但需要更重的合金与冷却系统。",
+    "Safari": "远征",
+    "Save failed (part not destroyed). Restoring backup.": "保存失败（零件未被销毁）。正在恢复备份。",
+    "Save failed. Could not create GameObject. Restoring backup.": "保存失败：无法创建物体。正在恢复备份。",
+    "Save failed. Could not find Part Script. Restoring backup.": "保存失败：找不到零件脚本。正在恢复备份。",
+    "Save failed. Could not re-initialize part. Restoring backup.": "保存失败：无法重新初始化零件。正在恢复备份。",
     "Saves the current craft.\nShortcut: [not set]": "保存当前载具。\n快捷键：[未设置]",
     "Search Parts\nFind parts by name or ID, and manage their visibility.\nShortcut: [not set]": "搜索零件\n按名称或 ID 查找零件，并管理它们的可见性。\n快捷键：[未设置]",
+    "Search...": "搜索…",
+    "Secondary Color": "副色",
+    "Secondary Strut": "次级支柱",
     "Seconds for the animation to play through the full timeline": "动画播放完整时间轴所需的秒数",
     "Select Next Target\nShortcut: [not set]": "选择下一个目标\n快捷键：[未设置]",
     "Select Parent Animator": "选择父动画器",
     "Select Root Part": "选择根零件",
     "Select an animated part to edit its animation.": "选择一个已设置动画的零件以编辑其动画。",
+    "Select an engine to drive this exhaust.": "选择一台发动机来驱动这个排气管。",
+    "Select the engine inside of this shroud.": "选择这个整流罩内部的发动机。",
+    "Select the indicated wing part.": "选择被指示的机翼零件。",
     "Select this part": "选择此零件",
     "Selects the root part of the craft. The position of the root part defines the mirror plane.": "选择载具的根零件。根零件的位置决定镜像平面。",
+    "Selects which support strut is mounted here, or None.": "选择此处安装哪根支撑支柱，或选“无”。",
+    "Selects which torque link is mounted, or None.": "选择安装哪种扭矩连杆，或选“无”。",
+    "Semi Front": "半挂前轮",
+    "Semi Rear": "半挂后轮",
     "Sensitivity": "灵敏度",
     "Server": "服务器",
     "Server Description": "服务器描述",
     "Set the angle increment (in degrees) for rotation snapping.": "设置旋转吸附的角度增量（度）。",
     "Set the grid size for movement snapping.": "设置移动吸附的网格尺寸。",
+    "Shaft Power": "轴功率",
     "Show Activation Panel\nShortcut: [not set]": "显示激活面板\n快捷键：[未设置]",
     "Show Instrument Panel\nShortcut: [not set]": "显示仪表面板\n快捷键：[未设置]",
     "Show all hidden parts\nShortcut: [not set]": "显示所有隐藏零件\n快捷键：[未设置]",
@@ -1939,21 +2460,46 @@
     "Show/hide part in the designer\nShortcut: [not set]": "在设计器中显示/隐藏零件\n快捷键：[未设置]",
     "Shows outlines around selected parts in the designer.": "在设计器中显示所选零件的轮廓。",
     "Since you're the host, you can force start this activity before everyone has marked themselves ready.": "由于你是主机，可以在所有人标记就绪之前强制开始此活动。",
+    "Single": "单轮",
+    "Single Arch": "单轮拱形",
+    "Single Arched": "单轮拱形",
+    "Single Caged": "单轮笼式",
+    "Single Hub": "单轮轮毂式",
+    "Single Offset": "单轮偏置",
+    "Single Slim": "单轮窄式",
+    "Single Straddled": "单轮跨式",
+    "Slanted": "斜角",
     "Slew Right": "向右转动",
+    "Slick 5": "光头胎 5",
+    "Slicks": "光头胎",
     "Small Turboprop": "小型涡桨发动机",
     "Small Turboprop\nA compact gas turbine that drives the powertrain through a reduction gearbox.": "小型涡桨发动机\n紧凑的燃气轮机，通过减速变速箱驱动动力系统。",
+    "Smooth Back": "后缘平滑",
+    "Smooth Front": "前缘平滑",
     "Snap To Mirror Plane": "对齐到镜像平面",
     "Snap the position of the selected part to the mirror plane.": "将所选零件的位置吸附到镜像平面。",
     "Sphere\nA ball is the most wonderful toy of all.": "球体\n球是所有玩具里最棒的那一个。",
+    "Spilt Tip": "分体桨尖",
+    "Split Tip": "分体桨尖",
+    "Spread": "扩散范围",
+    "Spring Force Scale": "弹簧力系数",
+    "Spring Strength": "弹簧强度",
     "Standard Gamepad Support": "标准手柄支持",
     "Start": "开始",
+    "Start Open": "初始开启",
     "Stout": "矮壮起落架",
     "Stout\nA short, stout main leg on a four-wheel bogie. Squat and strong for heavy loads.": "矮壮起落架\n装在四轮转向架上的短粗主支柱。矮而结实，专负重载。",
+    "Stretches the shroud horizontally.": "水平拉伸整流罩。",
+    "Stretches the shroud vertically.": "垂直拉伸整流罩。",
     "Structural Panel": "结构板",
     "Structural Panel\nIt may look like a wing, but it has no wing physics simulation. These are good for designs which may have previously used many wings for aesthetic purposes. Those designs will run a little faster with these, since they don't take as much processing power as wings.": "结构板\n看起来像机翼，但没有机翼的物理模拟。适合给那些以前为了美观堆了很多机翼的设计使用。换成它之后，这些设计会跑得更快一些，因为它没有机翼物理开销。",
     "Submit Bug Report": "提交问题反馈",
     "Submit a bug report to the developers.": "向开发者提交问题反馈。",
     "Submit a bug report to us": "向我们提交问题反馈",
+    "Suit": "服装",
+    "Support Strut": "支撑支柱",
+    "SweptLarge": "大后掠",
+    "SweptSplit": "分裂后掠",
     "System": "系统",
     "TEXTURES": "纹理",
     "TGP OFF": "瞄准吊舱关闭",
@@ -1963,30 +2509,54 @@
     "Teleport Up/Down": "向上/向下传送",
     "Teleport close to this player": "传送到此玩家附近",
     "Teleport to Player": "传送到玩家",
+    "Tertiary Strut": "三级支柱",
+    "That's it, you got it! Keep panning.": "就是这样，你学会了！继续平移视角。",
+    "That's it, you got it! Keep zooming in and out.": "就是这样，你学会了！继续缩放视角。",
+    "The blade angle in Fixed mode, or the governor's coarse pitch limit in Auto mode.": "固定模式下的桨叶角度，或自动模式下调速器的最大桨距限制。",
+    "The color of the base of the afterburner, for fun.": "加力燃烧室根部的颜色，纯属好玩。",
+    "The color of the tip of the afterburner, also for fun.": "加力燃烧室尖端的颜色，也是纯属好玩。",
     "The current 'Run' value of the fuselage.": "机身当前的水平偏移值。",
     "The current offset from the mirror plane for the mirrored part.": "镜像零件当前相对镜像平面的偏移。",
     "The current offset from the mirror plane.": "当前相对镜像平面的偏移。",
+    "The engine whose exhaust this pipe vents. Set automatically when attached to an engine, and kept if moved.": "这根排气管所排放的发动机。连接到发动机时会自动设置，移动后仍会保留。",
+    "The engine's rated power at sea level. Power falls off with altitude as the air thins.": "发动机在海平面的额定功率。随高度上升、空气稀薄，功率会下降。",
     "The interval (in minutes) at which the designer will autosave crafts.": "设计器自动保存载具的间隔时间（分钟）。",
     "The mass of this part.": "此零件的质量。",
+    "The maximum range the nozzle can gimbal.": "尾喷口可偏转的最大角度。",
     "The name must not be longer than {0} characters.": "名称长度不得超过 {0} 个字符。",
     "The name must not contain rich text tags, control characters, or leading/trailing/repeated whitespace.": "名称不能包含富文本标签、控制字符，也不能有首尾或重复的空白字符。",
     "The name of the multiplayer server you are currently in.": "你当前所在多人服务器的名称。",
     "The number of autosave files that the game will utilize when auto-saving designer crafts.": "自动保存设计器载具时，游戏会保留的自动保存文件数量。",
     "The number of quicksave files that the game will utilize when quick-saving designer crafts.": "快速保存设计器载具时，游戏会保留的快速保存文件数量。",
+    "The other colour particles are picked between. Pull the two apart to give smoke more variation.": "粒子颜色在两者之间取值。两种颜色差别越大，烟雾的变化越丰富。",
+    "The overall compression of the intake air and the resulting fuel efficiency.": "进气总压缩比及其带来的燃油效率。",
+    "The overall size of the pipe.": "排气管的整体尺寸。",
     "The part's ID": "此零件的 ID",
+    "The particles this pipe emits.": "这根排气管喷出的粒子。",
+    "The position of the shock. Purely cosmetic.": "激波的位置，纯属外观。",
+    "The rate at which the nozzle gimbals": "尾喷口的偏转速率",
+    "The selected nozzle does not support afterburner.": "所选的尾喷口不支持加力燃烧。",
     "The selected part and its part ID": "所选零件及其零件 ID",
     "The server description/message to show to players joining the server.": "展示给加入服务器玩家的描述/消息。",
+    "The style of the pipe.": "排气管的样式。",
     "The symmetric part (if any) of the selected part and its part ID": "所选零件的对称零件（若有）及其零件 ID",
+    "The torque delivered at governed RPM. A free turbine delivers up to double this from a standstill.": "调速转速下输出的扭矩。自由涡轮在静止时可输出最多两倍于此的扭矩。",
+    "The tutorial cannot be restarted without created a new instance of the tutorial.": "必须新建一个教程实例才能重新开始教程。",
     "The wind settings are controlled by the host.": "风力设置由主机控制。",
     "Theme": "主题",
+    "This is disabled while the designer tutorial is running.": "设计器教程运行期间此项不可用。",
+    "This is the throttle at which the afterburner will kick in.": "加力燃烧开始介入的油门位置。",
     "This setting changes the way reflections are handled on the craft surfaces.": "此设置会改变载具表面反射的处理方式。",
     "Timeline": "时间轴",
+    "Tints the particles. White is default, and the alpha thins the plume out.": "给粒子着色。默认白色，透明度越低尾焰越淡。",
+    "Tip Thickness": "翼尖厚度",
     "Tip: Left click on a part in the part list to show detailed information about it.": "提示：左键点击零件列表中的零件，即可查看它的详细信息。",
     "Tip: Several parts have properties that can be set by clicking the button with the wrench icon.": "提示：不少零件都有可以设置的属性，点击带扳手图标的按钮即可打开。",
     "Tip: You can clone parts by clicking and dragging them with the right mouse button.": "提示：按住鼠标右键点击并拖动零件即可复制它。",
     "Tip: You can hold down control while rotating or panning the view to prevent accidentally dragging a part.": "提示：旋转或平移视角时按住 Ctrl，可以避免误拖动零件。",
     "Tip: You can press CTRL+Z to undo and CTRL+Y to redo.": "提示：按 CTRL+Z 撤销，按 CTRL+Y 重做。",
     "Tired of waiting? Start Now!": "等不及了？立即开始！",
+    "Titan": "泰坦",
     "Toggle Cutting Outlines\nShow or hide outlines around cutting parts.\nShortcut: [not set]": "切换切割轮廓\n显示或隐藏切割零件周围的轮廓。\n快捷键：[未设置]",
     "Toggle Decal Outlines\nShow or hide outlines around decal parts.\nShortcut: [not set]": "切换贴花轮廓\n显示或隐藏贴花零件周围的轮廓。\n快捷键：[未设置]",
     "Toggle Part Outline Visibility": "开关零件轮廓显示",
@@ -1997,35 +2567,64 @@
     "Toggle the initial symmetry setting for new parts when they are added to the craft.\nShortcut: [not set]": "切换新零件的默认对称设置。\n影响之后添加到载具上的新零件。\n快捷键：[未设置]",
     "Toggles the foam on the water surface including foam effects caused by player crafts and other objects in the scene. This looks good but does have a negative impact on performance.": "切换水面的泡沫效果，包括玩家载具与场景中其他物体产生的泡沫。效果好看，但确实会对性能造成负面影响。",
     "Toggles the waves along the shorelines. This has an impact on performance but also, some players may just prefer less turbulent shorelines, either for physics-related or visual reasons.": "切换岸线附近的波浪。这会影响性能，而且有些玩家可能更喜欢不那么汹涌的岸线——无论是出于物理表现还是视觉偏好。",
+    "Top Offset": "顶部偏移",
+    "Top Width": "顶部宽度",
+    "Torque Link": "扭矩连杆",
+    "Torque Link Length": "扭矩连杆长度",
+    "Touge Star": "山路之星",
+    "Trail Breaker": "开路先锋",
+    "Trailing Arm": "拖曳臂",
+    "Trailing LInk": "拖曳连杆",
     "Trailing Link": "拖曳臂起落架",
     "Trailing Link\nA trailing-link main leg whose linkage soaks up bumps for smooth landings.": "拖曳臂起落架\n拖曳臂式主支柱，连杆能吸收颠簸，着陆更平稳。",
     "Translate Tool\nPrecisely move parts using gizmos without altering part connections.\nShortcut: [not set]": "平移工具\n使用变换控件精确移动零件，且不会改变零件连接关系。\n快捷键：[未设置]",
+    "Translational Lift": "平移升力",
     "Trigger the elevator": "触发升降舵",
+    "Trim Size": "配平片尺寸",
+    "Triple": "三轮",
     "Tripod": "三脚架起落架",
     "Tripod\nA tripod-braced main leg with a scissor strut. A stable, fighter-style mount.": "三脚架起落架\n三脚架支撑的主支柱，配剪式支柱。稳定可靠，战斗机风格。",
+    "Turbine Temp": "涡轮温度",
+    "Turbine Tuning": "涡轮调校",
     "Turbo Props": "涡桨发动机",
     "Turboshaft": "涡轮轴发动机",
+    "Turns the blades edge-on to the airflow when the engine stops.": "发动机停车时让桨叶转至与气流平行。",
+    "Tutorial Failed": "教程失败",
+    "Tutorial Passed": "教程通过",
     "Un-join this team/activity": "退出此队伍/活动",
+    "Unable to start the tutorial because there is no active aircraft.": "没有可用的飞行器，无法开始教程。",
     "Unban": "解除封禁",
     "Undo\nReverse the last action performed.\nShortcut: [not set]": "撤销\n快捷键：[未设置]",
     "Undo complete": "撤销完成",
     "Undoing last step...": "正在撤销上一步…",
+    "Upgrade to New Fuselage (Experimental)": "升级到新机身（实验性）",
     "Upload Bug Report": "上传问题反馈",
     "Use DirectInput": "使用 DirectInput",
+    "Username": "用户名",
     "VTOL Inlet": "VTOL 进气口",
     "VTOL Inlet\nLarge inlet that can suck in enough air for any jet engine. It works better when placed near the front where the air is less turbulent.": "VTOL 进气口\n大型进气口，能为任何喷气发动机吸入足够空气。放在机头附近、气流更平稳的位置效果更好。",
     "VTOL Slim Inlet": "VTOL 细型进气口",
     "VTOL Slim Inlet\nInlets help suck air in so jet engines can breathe. Most engines will need at least two of these slim inlets.": "VTOL 细型进气口\n进气口负责吸入空气，让喷气发动机能顺畅呼吸。大多数发动机至少需要两个这种细型进气口。",
+    "Variable Name": "变量名",
+    "Veloce": "迅捷",
+    "Vented Chevron": "开孔人字形",
+    "Vented Tapered I": "开孔锥形 I",
+    "Vented Tapered II": "开孔锥形 II",
+    "Vented Tapered III": "开孔锥形 III",
     "View Tool\nView the craft without accidentally grabbing and moving parts.\nShortcut: [not set]": "查看工具\n查看载具时不会误抓取或移动零件。\n快捷键：[未设置]",
     "View and remove permanent and temporary player bans.": "查看并移除永久与临时玩家封禁。",
     "View the people who made this game.": "查看制作本游戏的人员。",
     "View the roadmap for upcoming features and updates.": "查看未来功能与更新的路线图。",
     "Vote Kick": "投票踢出",
+    "Welcome to the designer! Would you like to try an interactive tutorial to learn how to build? It's the fastest way to learn the basics.": "欢迎来到设计器！要不要试试交互式教程来学习建造？这是上手最快的方式。",
     "Weld the selected parts so they to move together in the designer. Does not make them rigid in flight.": "焊接所选零件，使它们在设计器中一起移动。不会让它们在飞行中变成刚体。",
     "Weld the selected parts so they to move together in the designer. Does not make them rigid in flight.\nShortcut: [not set]": "焊接所选零件，使它们在设计器中一起移动。不会让它们在飞行中变成刚体。\n快捷键：[未设置]",
+    "Wet Bandit": "湿地霸王",
     "What does that mean?": "这是什么意思？",
     "Wheel Assembly": "轮组总成",
     "Wheel Assembly\nMulti-wheel assembly. Pick a style for the wheel layout (single, dual, quad, …), then a tire and rim that gets applied to every wheel in the assembly. Attaches directly to the body for a fixed mount, or to a gear leg to retract.": "轮组总成\n多轮机轮总成。先选择轮位布局样式（单轮、双轮、四轮……），再选一套应用到总成中每个轮子的轮胎与轮辋。可直接固定在机身上，也可装到起落架支柱上。",
+    "Wheel Assembly Style": "轮组形式",
+    "Wheel Offset": "轮组偏移",
     "When enabled, players can copy and load any craft that you are actively using.": "启用后，玩家可以复制并加载你正在使用的任何载具。",
     "When enabled, players can use the teleport to player functionality": "启用后，玩家可以使用「传送到玩家」功能",
     "When enabled, players can use the teleport up/down keybindings.": "启用后，玩家可以使用向上/向下传送快捷键。",
@@ -2033,15 +2632,40 @@
     "When toggled off, the property value is ignored and interpolated from the slices around it.": "关闭后，该属性值会被忽略，并由周围切片插值得到。",
     "When toggled, apply changes to the mirrored part as well (if there is one)": "开启后，修改也会应用到镜像零件（如果有）",
     "When true, the fuselage auto-resizes to match connected parts.": "若为是，机身会自动缩放以匹配相连零件。",
+    "Wide Chevron": "宽人字形",
+    "Wide Tapered I": "宽锥形 I",
+    "Wide Tapered II": "宽锥形 II",
+    "Wide Tapered III": "宽锥形 III",
     "Window\nInstall customizable window into any fuselage part. Only works with fuselage parts.": "窗户\n在任意机身类零件上安装可自定义的窗户。只对机身类零件有效。",
     "Wing\nA compact wing-mounted main leg that folds up thin, perfect for tucking under slim wings.": "翼载起落架\n紧凑的翼下主起落架，收起后很薄，特别适合塞进细薄的机翼下方。",
     "Wishlist SimplePlanes 2 on Steam!": "将 SimplePlanes 2 加入 Steam 愿望单！",
     "You are currently logged in as": "你当前登录为",
+    "You can also pan the view around by right clicking and dragging. Go ahead and give it a try.": "你也可以按住右键拖动来平移视角。去试试看吧。",
+    "You can also zoom in and out with the mouse wheel. Go ahead and try it out.": "你也可以用鼠标滚轮缩放。去试试看吧。",
     "You cannot log in while mods are active. Please disable all mods and restart the game to log in.": "有 Mod 启用时无法登录。请禁用所有 Mod 并重启游戏后再登录。",
+    "You have modified properties that have a high risk of breaking something.": "你修改了有较高风险导致故障的属性。",
     "You have no banned or temp-banned Steam players.": "你没有被封禁或临时封禁的 Steam 玩家。",
     "You're invited!": "你被邀请了！",
     "You're ready to go!": "准备就绪！",
-    "Your support means the world to us. If you're enjoying the demo, please consider adding it to your Steam wishlist. It helps more than you know!": "你的支持对我们意义重大。如果你喜欢这个试玩版，请考虑将它加入 Steam 愿望单。这带来的帮助超乎你的想象！"
+    "Your support means the world to us. If you're enjoying the demo, please consider adding it to your Steam wishlist. It helps more than you know!": "你的支持对我们意义重大。如果你喜欢这个试玩版，请考虑将它加入 Steam 愿望单。这带来的帮助超乎你的想象！",
+    "Zero Yon": "零式四型",
+    "centerOfMass": "重心",
+    "disableAircraftCollisions": "禁用飞行器碰撞",
+    "drag": "阻力",
+    "dragArea": "阻力面积",
+    "dragScale": "阻力缩放",
+    "dragType": "阻力类型",
+    "health": "耐久",
+    "id": "编号",
+    "massScale": "质量缩放",
+    "materials": "材质",
+    "partCollisionResponse": "碰撞响应",
+    "partType": "零件类型",
+    "partType has been changed. All connections are destroyed.": "零件类型（partType）已被修改，所有连接都会被破坏。",
+    "position": "位置",
+    "rotation": "旋转",
+    "scale": "缩放",
+    "symmetryDisabled": "禁用对称"
   },
   "contextEntries": [
     {
@@ -4139,6 +4763,18 @@
     {
       "sourceSuffix": " became a landmark",
       "valueSuffix": " 成为了地标"
+    },
+    {
+      "sourceSuffix": "\n\nWould you like to remove or replace this binding?",
+      "valueSuffix": "\n\n你想移除还是替换这条绑定？"
+    },
+    {
+      "sourceSuffix": "breaks <b>part connections</b>, may fail to initialize or break craft loading.",
+      "valueSuffix": "会破坏 <b>零件连接</b>，可能导致零件无法初始化或载具加载失败。"
+    },
+    {
+      "sourceSuffix": " complete.",
+      "valueSuffix": " 完成。"
     }
   ],
   "dynamicPrefixEntries": [
@@ -4165,6 +4801,1846 @@
     {
       "sourcePrefix": "Part damaged: ",
       "valuePrefix": "零件受损：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Hollow Glass Fuselage",
+      "valuePrefix": "已删除 旧版空心玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Horizontal Stabilizer",
+      "valuePrefix": "已删除 旧版水平安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Cockpit Angled Corner",
+      "valuePrefix": "已删除 旧版座舱斜角转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Curved Reducer Block",
+      "valuePrefix": "已删除 旧版弧形过渡方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Vertical Stabilizer",
+      "valuePrefix": "已删除 旧版垂直安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Long Angled Block",
+      "valuePrefix": "已删除 旧版长斜角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Historic Cockpit",
+      "valuePrefix": "已删除 旧版复古座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Hollow Fuselage",
+      "valuePrefix": "已删除 旧版空心机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Structural Wing",
+      "valuePrefix": "已删除 旧版结构翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Resizable Wheel",
+      "valuePrefix": "已删除 旧版可调机轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Fuselage Block",
+      "valuePrefix": "已删除 旧版机身方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Glass Fuselage",
+      "valuePrefix": "已删除 旧版玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Horizontal Stabilizer",
+      "valuePrefix": "已删除 水平安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Cockpit Corner",
+      "valuePrefix": "已删除 旧版座舱转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Floating Block",
+      "valuePrefix": "已删除 旧版浮筒方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Angled Corner",
+      "valuePrefix": "已删除 旧版斜角转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Reducer Block",
+      "valuePrefix": "已删除 旧版过渡方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Curved Corner",
+      "valuePrefix": "已删除 旧版弧形转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Fuselage Cone",
+      "valuePrefix": "已删除 旧版机身鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Hollow Glass Fuselage",
+      "valuePrefix": "旧版空心玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Horizontal Stabilizer",
+      "valuePrefix": "旧版水平安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Sleek Cockpit",
+      "valuePrefix": "已删除 旧版流线座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Cockpit Angled Corner",
+      "valuePrefix": "旧版座舱斜角转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Cockpit Block",
+      "valuePrefix": "已删除 旧版座舱方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Curved Reducer Block",
+      "valuePrefix": "旧版弧形过渡方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Curved Block",
+      "valuePrefix": "已删除 旧版弧形方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Vertical Stabilizer",
+      "valuePrefix": "已删除 垂直安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Primary Wing",
+      "valuePrefix": "已删除 旧版主翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Right Angle Gearbox",
+      "valuePrefix": "已删除 直角变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Floor Mounted Pedal",
+      "valuePrefix": "已删除 地板式踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Riser Block",
+      "valuePrefix": "已删除 旧版增高方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Vertical Stabilizer",
+      "valuePrefix": "旧版垂直安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Catapult Connector",
+      "valuePrefix": "已删除 弹射器连接器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Procedural Missile",
+      "valuePrefix": "已删除 程序化导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Attitude Indicator",
+      "valuePrefix": "已删除 姿态仪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Semi Truck Engine",
+      "valuePrefix": "已删除 半挂卡车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Car Engine",
+      "valuePrefix": "已删除 旧版汽车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Missile Jet Inlet",
+      "valuePrefix": "已删除 导弹喷气进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Steering Wheel GT",
+      "valuePrefix": "已删除 GT 方向盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Long Angled Block",
+      "valuePrefix": "旧版长斜角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Nose Cone",
+      "valuePrefix": "已删除 旧版鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Structural Panel",
+      "valuePrefix": "已删除 结构板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Medium Turboprop",
+      "valuePrefix": "已删除 中型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Large Heli Rotor",
+      "valuePrefix": "已删除 大型直升机主旋翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Small Heli Rotor",
+      "valuePrefix": "已删除 小型直升机主旋翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Unguided Missile",
+      "valuePrefix": "已删除 非制导导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fighter Throttle",
+      "valuePrefix": "已删除 战斗机油门杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hollow Fuselage",
+      "valuePrefix": "已删除 空心机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Curved Fuselage",
+      "valuePrefix": "已删除 弧形机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Medium Turbofan",
+      "valuePrefix": "已删除 中型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Small Turboprop",
+      "valuePrefix": "已删除 小型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Large Turboprop",
+      "valuePrefix": "已删除 大型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL Slim Inlet",
+      "valuePrefix": "已删除 VTOL 细型进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Double Wishbone",
+      "valuePrefix": "已删除 双叉臂悬挂",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Missile Details",
+      "valuePrefix": "已删除 导弹细节",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Modern Joystick",
+      "valuePrefix": "已删除 现代操纵杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Ergonomic Lever",
+      "valuePrefix": "已删除 人体工学拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Flight Computer",
+      "valuePrefix": "已删除 飞控计算机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Historic Cockpit",
+      "valuePrefix": "旧版复古座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Formation Light",
+      "valuePrefix": "已删除 编队灯",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Glass Fuselage",
+      "valuePrefix": "已删除 玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Straight Block",
+      "valuePrefix": "已删除 直角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Hollow Fuselage",
+      "valuePrefix": "旧版空心机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Structural Wing",
+      "valuePrefix": "旧版结构翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Ultra Turbofan",
+      "valuePrefix": "已删除 超大型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Large Turbofan",
+      "valuePrefix": "已删除 大型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Economy Engine",
+      "valuePrefix": "已删除 经济型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gearbox Offset",
+      "valuePrefix": "已删除 偏置变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Wheel Assembly",
+      "valuePrefix": "已删除 轮组总成",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Airliner Front",
+      "valuePrefix": "已删除 客机前起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Arresting Hook",
+      "valuePrefix": "已删除 拦阻钩",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Resizable Wheel",
+      "valuePrefix": "旧版可调机轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Basic Joystick",
+      "valuePrefix": "已删除 基础操纵杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Steering Wheel",
+      "valuePrefix": "已删除 方向盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Blocked Canopy",
+      "valuePrefix": "已删除 封闭座舱盖",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Cockpit",
+      "valuePrefix": "已删除 旧版座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Fuselage Block",
+      "valuePrefix": "旧版机身方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Glass Fuselage",
+      "valuePrefix": "旧版玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Horizontal Stabilizer",
+      "valuePrefix": "水平安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Standard Flap",
+      "valuePrefix": "已删除 标准襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Prop Assembly",
+      "valuePrefix": "已删除 螺旋桨总成",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Sports Engine",
+      "valuePrefix": "已删除 运动型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Racing Engine",
+      "valuePrefix": "已删除 赛车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gearbox Large",
+      "valuePrefix": "已删除 大型变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Transfer Case",
+      "valuePrefix": "已删除 分动箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Offroad Wheel",
+      "valuePrefix": "已删除 越野车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Airliner Rear",
+      "valuePrefix": "已删除 客机主起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Trailing Link",
+      "valuePrefix": "已删除 拖曳臂起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hawk Eye Lite",
+      "valuePrefix": "已删除 轻型鹰眼瞄准吊舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Laser Missile",
+      "valuePrefix": "已删除 激光导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Missile Wings",
+      "valuePrefix": "已删除 导弹机翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Pirate Cannon",
+      "valuePrefix": "已删除 海盗炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Legacy Rocket",
+      "valuePrefix": "已删除 旧版火箭",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Joystick Base",
+      "valuePrefix": "已删除 操纵杆基座",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Cylinder Grip",
+      "valuePrefix": "已删除 圆柱握把",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Push Throttle",
+      "valuePrefix": "已删除 推杆式油门",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Vintage Lever",
+      "valuePrefix": "已删除 复古拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Cockpit Corner",
+      "valuePrefix": "旧版座舱转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hinge Rotator",
+      "valuePrefix": "已删除 铰链旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Small Rotator",
+      "valuePrefix": "已删除 小型旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Refuel Drogue",
+      "valuePrefix": "已删除 加油锥套",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Floating Block",
+      "valuePrefix": "旧版浮筒方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Angled Block",
+      "valuePrefix": "已删除 斜角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Angled Corner",
+      "valuePrefix": "旧版斜角转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Reducer Block",
+      "valuePrefix": "旧版过渡方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Curved Corner",
+      "valuePrefix": "旧版弧形转角块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Fuselage Cone",
+      "valuePrefix": "旧版机身鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Primary Wing",
+      "valuePrefix": "已删除 主翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Military Jet",
+      "valuePrefix": "已删除 军用喷气发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Transmission",
+      "valuePrefix": "已删除 变速器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gearbox Long",
+      "valuePrefix": "已删除 长型变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Differential",
+      "valuePrefix": "已删除 差速器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Racing Wheel",
+      "valuePrefix": "已删除 赛车车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Street Wheel",
+      "valuePrefix": "已删除 公路车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted A-Frame Bare",
+      "valuePrefix": "已删除 A 型架起落架（裸架）",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Missile Fins",
+      "valuePrefix": "已删除 导弹尾翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Clutch Pedal",
+      "valuePrefix": "已删除 离合踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Modern Frame",
+      "valuePrefix": "已删除 现代框架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Sleek Cockpit",
+      "valuePrefix": "旧版流线座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Cockpit Block",
+      "valuePrefix": "旧版座舱方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Beacon Light",
+      "valuePrefix": "已删除 航标灯",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Refuel Probe",
+      "valuePrefix": "已删除 受油探管",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Orbit Camera",
+      "valuePrefix": "已删除 环绕相机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Curved Block",
+      "valuePrefix": "旧版弧形方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Vertical Stabilizer",
+      "valuePrefix": "垂直安定面",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fowler Flap",
+      "valuePrefix": "已删除 福勒襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Primary Wing",
+      "valuePrefix": "旧版主翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Radial Prop",
+      "valuePrefix": "已删除 星型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL Engine",
+      "valuePrefix": "已删除 VTOL 发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL Nozzle",
+      "valuePrefix": "已删除 VTOL 喷口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Tiny Engine",
+      "valuePrefix": "已删除 微型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Drive Shaft",
+      "valuePrefix": "已删除 传动轴",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Right Angle Gearbox",
+      "valuePrefix": "直角变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted SAR Missile",
+      "valuePrefix": "已删除 SAR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted ARD Missile",
+      "valuePrefix": "已删除 ARD 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Jet Missile",
+      "valuePrefix": "已删除 巡航导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fin Details",
+      "valuePrefix": "已删除 尾翼细节",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Tank Cannon",
+      "valuePrefix": "已删除 坦克炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Auto Cannon",
+      "valuePrefix": "已删除 机炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Modern Seat",
+      "valuePrefix": "已删除 现代座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Brake Pedal",
+      "valuePrefix": "已删除 刹车踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Floor Mounted Pedal",
+      "valuePrefix": "地板式踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Basic Lever",
+      "valuePrefix": "已删除 基础拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Handy Lever",
+      "valuePrefix": "已删除 便捷拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Basic Frame",
+      "valuePrefix": "已删除 基础框架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hemisphere",
+      "valuePrefix": "已删除 半球体",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Riser Block",
+      "valuePrefix": "旧版增高方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Delta Wing",
+      "valuePrefix": "已删除 三角翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Brake Flap",
+      "valuePrefix": "已删除 减速襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Large Prop",
+      "valuePrefix": "已删除 大型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Small Prop",
+      "valuePrefix": "已删除 小型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Tail Rotor",
+      "valuePrefix": "已删除 尾桨",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL Inlet",
+      "valuePrefix": "已删除 VTOL 进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Catapult Connector",
+      "valuePrefix": "弹射器连接器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted IR Missile",
+      "valuePrefix": "已删除 IR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted AR Missile",
+      "valuePrefix": "已删除 AR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Procedural Missile",
+      "valuePrefix": "程序化导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Rocket Pod",
+      "valuePrefix": "已删除 火箭发射巢",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Long Pylon",
+      "valuePrefix": "已删除 长挂架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Basic Seat",
+      "valuePrefix": "已删除 基础座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Attitude Indicator",
+      "valuePrefix": "姿态仪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Text Decal",
+      "valuePrefix": "已删除 文字贴花",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Nose Cone",
+      "valuePrefix": "已删除 鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Base Wing",
+      "valuePrefix": "已删除 基础机翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fuel Tank",
+      "valuePrefix": "已删除 油箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Semi Truck Engine",
+      "valuePrefix": "半挂卡车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Car Engine",
+      "valuePrefix": "旧版汽车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Missile Jet Inlet",
+      "valuePrefix": "导弹喷气进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Steering Wheel GT",
+      "valuePrefix": "GT 方向盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gas Pedal",
+      "valuePrefix": "已删除 油门踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gyroscope",
+      "valuePrefix": "已删除 陀螺仪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Parachute",
+      "valuePrefix": "已删除 降落伞",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Air Brake",
+      "valuePrefix": "已删除 减速板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Fuselage",
+      "valuePrefix": "已删除 机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Nose Cone",
+      "valuePrefix": "旧版鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Structural Panel",
+      "valuePrefix": "结构板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Medium Turboprop",
+      "valuePrefix": "中型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Large Heli Rotor",
+      "valuePrefix": "大型直升机主旋翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Small Heli Rotor",
+      "valuePrefix": "小型直升机主旋翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted VTOL RCN",
+      "valuePrefix": "已删除 VTOL 姿控喷口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Coilover",
+      "valuePrefix": "已删除 弹簧避震器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gear Bay",
+      "valuePrefix": "已删除 起落架舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Beefcake",
+      "valuePrefix": "已删除 壮硕起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hawk Eye",
+      "valuePrefix": "已删除 鹰眼瞄准吊舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Unguided Missile",
+      "valuePrefix": "非制导导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Wing Gun",
+      "valuePrefix": "已删除 翼内机炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Car Seat",
+      "valuePrefix": "已删除 汽车座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fighter Throttle",
+      "valuePrefix": "战斗机油门杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Detacher",
+      "valuePrefix": "已删除 分离器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hollow Fuselage",
+      "valuePrefix": "空心机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Curved Fuselage",
+      "valuePrefix": "弧形机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Medium Turbofan",
+      "valuePrefix": "中型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Small Turboprop",
+      "valuePrefix": "小型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Large Turboprop",
+      "valuePrefix": "大型涡桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL Slim Inlet",
+      "valuePrefix": "VTOL 细型进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Exhaust",
+      "valuePrefix": "已删除 排气管",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gearbox",
+      "valuePrefix": "已删除 变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Double Wishbone",
+      "valuePrefix": "双叉臂悬挂",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted GA Bent",
+      "valuePrefix": "已删除 通航弯管起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted A-Frame",
+      "valuePrefix": "已删除 A 型架起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Missile Details",
+      "valuePrefix": "导弹细节",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Torpedo",
+      "valuePrefix": "已删除 鱼雷",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Minigun",
+      "valuePrefix": "已删除 加特林机枪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Modern Joystick",
+      "valuePrefix": "现代操纵杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Ergonomic Lever",
+      "valuePrefix": "人体工学拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Flight Computer",
+      "valuePrefix": "飞控计算机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Formation Light",
+      "valuePrefix": "编队灯",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Rotator",
+      "valuePrefix": "已删除 旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Glass Fuselage",
+      "valuePrefix": "玻璃机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Window",
+      "valuePrefix": "已删除 舷窗",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Straight Block",
+      "valuePrefix": "直角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Sphere",
+      "valuePrefix": "已删除 球体",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Ultra Turbofan",
+      "valuePrefix": "超大型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Large Turbofan",
+      "valuePrefix": "大型涡扇发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Economy Engine",
+      "valuePrefix": "经济型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gearbox Offset",
+      "valuePrefix": "偏置变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Wheel Assembly",
+      "valuePrefix": "轮组总成",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hollow",
+      "valuePrefix": "已删除 空心起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Braced",
+      "valuePrefix": "已删除 支撑式前起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Forged",
+      "valuePrefix": "已删除 锻造起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Airliner Front",
+      "valuePrefix": "客机前起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Tripod",
+      "valuePrefix": "已删除 三脚架起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Arresting Hook",
+      "valuePrefix": "拦阻钩",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Flares",
+      "valuePrefix": "已删除 热焰弹发射器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Chaffs",
+      "valuePrefix": "已删除 箔条弹发射器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Basic Joystick",
+      "valuePrefix": "基础操纵杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Steering Wheel",
+      "valuePrefix": "方向盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Switch",
+      "valuePrefix": "已删除 开关",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Button",
+      "valuePrefix": "已删除 按钮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Canopy",
+      "valuePrefix": "已删除 座舱盖",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Blocked Canopy",
+      "valuePrefix": "封闭座舱盖",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Cockpit",
+      "valuePrefix": "旧版座舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Piston",
+      "valuePrefix": "已删除 活塞",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Magnet",
+      "valuePrefix": "已删除 电磁铁",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Camera",
+      "valuePrefix": "已删除 相机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Block",
+      "valuePrefix": "已删除 方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Standard Flap",
+      "valuePrefix": "标准襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Prop Assembly",
+      "valuePrefix": "螺旋桨总成",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Sports Engine",
+      "valuePrefix": "运动型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Racing Engine",
+      "valuePrefix": "赛车发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gearbox Large",
+      "valuePrefix": "大型变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Transfer Case",
+      "valuePrefix": "分动箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Offroad Wheel",
+      "valuePrefix": "越野车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Airliner Rear",
+      "valuePrefix": "客机主起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Stout",
+      "valuePrefix": "已删除 矮壮起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Heavy",
+      "valuePrefix": "已删除 重型起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Lever",
+      "valuePrefix": "已删除 杠杆式起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Trailing Link",
+      "valuePrefix": "拖曳臂起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hawk Eye Lite",
+      "valuePrefix": "轻型鹰眼瞄准吊舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Laser Missile",
+      "valuePrefix": "激光导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Missile Wings",
+      "valuePrefix": "导弹机翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Pirate Cannon",
+      "valuePrefix": "海盗炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Legacy Rocket",
+      "valuePrefix": "旧版火箭",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Pylon",
+      "valuePrefix": "已删除 挂架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Gauge",
+      "valuePrefix": "已删除 仪表",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Label",
+      "valuePrefix": "已删除 标签",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Joystick Base",
+      "valuePrefix": "操纵杆基座",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Cylinder Grip",
+      "valuePrefix": "圆柱握把",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Push Throttle",
+      "valuePrefix": "推杆式油门",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Vintage Lever",
+      "valuePrefix": "复古拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Decal",
+      "valuePrefix": "已删除 贴花",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hinge Rotator",
+      "valuePrefix": "铰链旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Small Rotator",
+      "valuePrefix": "小型旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Winch",
+      "valuePrefix": "已删除 绞盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Refuel Drogue",
+      "valuePrefix": "加油锥套",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Hole",
+      "valuePrefix": "已删除 开孔",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Angled Block",
+      "valuePrefix": "斜角方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Primary Wing",
+      "valuePrefix": "主翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Slat",
+      "valuePrefix": "已删除 前缘缝翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Military Jet",
+      "valuePrefix": "军用喷气发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Transmission",
+      "valuePrefix": "变速器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gearbox Long",
+      "valuePrefix": "长型变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Differential",
+      "valuePrefix": "差速器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Racing Wheel",
+      "valuePrefix": "赛车车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Street Wheel",
+      "valuePrefix": "公路车轮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Aero",
+      "valuePrefix": "已删除 气动整流起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "A-Frame Bare",
+      "valuePrefix": "A 型架起落架（裸架）",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Ivan",
+      "valuePrefix": "已删除 伊万式起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Wing",
+      "valuePrefix": "已删除 翼载起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Missile Fins",
+      "valuePrefix": "导弹尾翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted Yoke",
+      "valuePrefix": "已删除 驾驶盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Clutch Pedal",
+      "valuePrefix": "离合踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Modern Frame",
+      "valuePrefix": "现代框架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Beacon Light",
+      "valuePrefix": "航标灯",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Refuel Probe",
+      "valuePrefix": "受油探管",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Orbit Camera",
+      "valuePrefix": "环绕相机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fowler Flap",
+      "valuePrefix": "福勒襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Radial Prop",
+      "valuePrefix": "星型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL Engine",
+      "valuePrefix": "VTOL 发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL Nozzle",
+      "valuePrefix": "VTOL 喷口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Tiny Engine",
+      "valuePrefix": "微型发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Drive Shaft",
+      "valuePrefix": "传动轴",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "SAR Missile",
+      "valuePrefix": "SAR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "ARD Missile",
+      "valuePrefix": "ARD 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Jet Missile",
+      "valuePrefix": "巡航导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fin Details",
+      "valuePrefix": "尾翼细节",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Tank Cannon",
+      "valuePrefix": "坦克炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Auto Cannon",
+      "valuePrefix": "机炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Modern Seat",
+      "valuePrefix": "现代座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Brake Pedal",
+      "valuePrefix": "刹车踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Basic Lever",
+      "valuePrefix": "基础拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Handy Lever",
+      "valuePrefix": "便捷拉杆",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Basic Frame",
+      "valuePrefix": "基础框架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hemisphere",
+      "valuePrefix": "半球体",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Delta Wing",
+      "valuePrefix": "三角翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Brake Flap",
+      "valuePrefix": "减速襟翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Large Prop",
+      "valuePrefix": "大型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Small Prop",
+      "valuePrefix": "小型螺旋桨发动机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Tail Rotor",
+      "valuePrefix": "尾桨",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL Inlet",
+      "valuePrefix": "VTOL 进气口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "IR Missile",
+      "valuePrefix": "IR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "AR Missile",
+      "valuePrefix": "AR 导弹",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Rocket Pod",
+      "valuePrefix": "火箭发射巢",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Long Pylon",
+      "valuePrefix": "长挂架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Basic Seat",
+      "valuePrefix": "基础座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Text Decal",
+      "valuePrefix": "文字贴花",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Nose Cone",
+      "valuePrefix": "鼻锥",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Base Wing",
+      "valuePrefix": "基础机翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fuel Tank",
+      "valuePrefix": "油箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gas Pedal",
+      "valuePrefix": "油门踏板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gyroscope",
+      "valuePrefix": "陀螺仪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Parachute",
+      "valuePrefix": "降落伞",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Air Brake",
+      "valuePrefix": "减速板",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Fuselage",
+      "valuePrefix": "机身",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "VTOL RCN",
+      "valuePrefix": "VTOL 姿控喷口",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Coilover",
+      "valuePrefix": "弹簧避震器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gear Bay",
+      "valuePrefix": "起落架舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Beefcake",
+      "valuePrefix": "壮硕起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hawk Eye",
+      "valuePrefix": "鹰眼瞄准吊舱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Wing Gun",
+      "valuePrefix": "翼内机炮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Car Seat",
+      "valuePrefix": "汽车座椅",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Detacher",
+      "valuePrefix": "分离器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Exhaust",
+      "valuePrefix": "排气管",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gearbox",
+      "valuePrefix": "变速箱",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "GA Bent",
+      "valuePrefix": "通航弯管起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "A-Frame",
+      "valuePrefix": "A 型架起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Torpedo",
+      "valuePrefix": "鱼雷",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Minigun",
+      "valuePrefix": "加特林机枪",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Rotator",
+      "valuePrefix": "旋转器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Window",
+      "valuePrefix": "舷窗",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Sphere",
+      "valuePrefix": "球体",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hollow",
+      "valuePrefix": "空心起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Braced",
+      "valuePrefix": "支撑式前起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Forged",
+      "valuePrefix": "锻造起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Tripod",
+      "valuePrefix": "三脚架起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Flares",
+      "valuePrefix": "热焰弹发射器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Chaffs",
+      "valuePrefix": "箔条弹发射器",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Switch",
+      "valuePrefix": "开关",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Button",
+      "valuePrefix": "按钮",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Canopy",
+      "valuePrefix": "座舱盖",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Piston",
+      "valuePrefix": "活塞",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Magnet",
+      "valuePrefix": "电磁铁",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Camera",
+      "valuePrefix": "相机",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Block",
+      "valuePrefix": "方块",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Stout",
+      "valuePrefix": "矮壮起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Heavy",
+      "valuePrefix": "重型起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Lever",
+      "valuePrefix": "杠杆式起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Pylon",
+      "valuePrefix": "挂架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Gauge",
+      "valuePrefix": "仪表",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Label",
+      "valuePrefix": "标签",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Decal",
+      "valuePrefix": "贴花",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Winch",
+      "valuePrefix": "绞盘",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Hole",
+      "valuePrefix": "开孔",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Slat",
+      "valuePrefix": "前缘缝翼",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Aero",
+      "valuePrefix": "气动整流起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Ivan",
+      "valuePrefix": "伊万式起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Wing",
+      "valuePrefix": "翼载起落架",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Yoke",
+      "valuePrefix": "驾驶盘",
       "valueSuffix": ""
     },
     {
@@ -4345,6 +6821,51 @@
     {
       "sourcePrefix": "Weld the selected parts so they to move together in the designer. Does not make them rigid in flight.\nShortcut: ",
       "valuePrefix": "焊接所选零件，使它们在设计器中一起移动。不会让它们在飞行中变成刚体。\n快捷键：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Press a key to assign it to\n",
+      "valuePrefix": "按下一个按键，将其分配给\n",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Now press a button or move an axis to assign it to\n",
+      "valuePrefix": "现在按下按钮或移动轴，将其分配给\n",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Must be at least ",
+      "valuePrefix": "至少为 ",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Must be at most ",
+      "valuePrefix": "至多为 ",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "default: ",
+      "valuePrefix": "默认值：",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Deleted ",
+      "valuePrefix": "已删除 ",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Pilot Seat",
+      "valuePrefix": "驾驶座",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Cockpit Hole",
+      "valuePrefix": "座舱开孔",
+      "valueSuffix": ""
+    },
+    {
+      "sourcePrefix": "Prop Engine",
+      "valuePrefix": "螺旋桨发动机",
       "valueSuffix": ""
     }
   ]

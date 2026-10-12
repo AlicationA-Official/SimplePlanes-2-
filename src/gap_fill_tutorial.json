@@ -1,0 +1,22 @@
+{
+  "Property Value": "属性值",
+  "Variable Name": "变量名",
+  "Expression": "表达式",
+  "Activator": "触发器",
+  "Username": "用户名",
+  "Search...": "搜索…",
+  "Describe the bug and how to reproduce it": "描述这个 bug 以及如何复现",
+  "Suit": "服装",
+  "Please enjoy our hand-crafted, organic, interactive tutorials.": "请享用我们手工打造、有机、可交互的教程。",
+  "Start Tutorial": "开始教程",
+  "Designer Tutorials": "设计器教程",
+  "Unable to start the tutorial because there is no active aircraft.": "没有可用的飞行器，无法开始教程。",
+  "The tutorial cannot be restarted without created a new instance of the tutorial.": "必须新建一个教程实例才能重新开始教程。",
+  "This is disabled while the designer tutorial is running.": "设计器教程运行期间此项不可用。",
+  "Disabled During Tutorial": "教程期间不可用",
+  "Downloading crafts is disabled while the tutorial is running.": "教程运行期间无法下载载具。",
+  "Welcome to the designer! Would you like to try an interactive tutorial to learn how to build? It's the fastest way to learn the basics.": "欢迎来到设计器！要不要试试交互式教程来学习建造？这是上手最快的方式。",
+  "Designer Tutorial": "设计器教程",
+  "Tutorial Passed": "教程通过",
+  "Tutorial Failed": "教程失败"
+}

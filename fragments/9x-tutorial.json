@@ -1,0 +1,85 @@
+{
+  "page": "9x-tutorial",
+  "entries": [
+    {
+      "key": "Activator",
+      "value": "触发器"
+    },
+    {
+      "key": "Describe the bug and how to reproduce it",
+      "value": "描述这个 bug 以及如何复现"
+    },
+    {
+      "key": "Designer Tutorial",
+      "value": "设计器教程"
+    },
+    {
+      "key": "Designer Tutorials",
+      "value": "设计器教程"
+    },
+    {
+      "key": "Disabled During Tutorial",
+      "value": "教程期间不可用"
+    },
+    {
+      "key": "Downloading crafts is disabled while the tutorial is running.",
+      "value": "教程运行期间无法下载载具。"
+    },
+    {
+      "key": "Expression",
+      "value": "表达式"
+    },
+    {
+      "key": "Please enjoy our hand-crafted, organic, interactive tutorials.",
+      "value": "请享用我们手工打造、有机、可交互的教程。"
+    },
+    {
+      "key": "Property Value",
+      "value": "属性值"
+    },
+    {
+      "key": "Search...",
+      "value": "搜索…"
+    },
+    {
+      "key": "Start Tutorial",
+      "value": "开始教程"
+    },
+    {
+      "key": "Suit",
+      "value": "服装"
+    },
+    {
+      "key": "The tutorial cannot be restarted without created a new instance of the tutorial.",
+      "value": "必须新建一个教程实例才能重新开始教程。"
+    },
+    {
+      "key": "This is disabled while the designer tutorial is running.",
+      "value": "设计器教程运行期间此项不可用。"
+    },
+    {
+      "key": "Tutorial Failed",
+      "value": "教程失败"
+    },
+    {
+      "key": "Tutorial Passed",
+      "value": "教程通过"
+    },
+    {
+      "key": "Unable to start the tutorial because there is no active aircraft.",
+      "value": "没有可用的飞行器，无法开始教程。"
+    },
+    {
+      "key": "Username",
+      "value": "用户名"
+    },
+    {
+      "key": "Variable Name",
+      "value": "变量名"
+    },
+    {
+      "key": "Welcome to the designer! Would you like to try an interactive tutorial to learn how to build? It's the fastest way to learn the basics.",
+      "value": "欢迎来到设计器！要不要试试交互式教程来学习建造？这是上手最快的方式。"
+    }
+  ]
+}

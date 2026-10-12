@@ -1,0 +1,17 @@
+{
+  "page": "9x-dynamic-suffix",
+  "dynamicSuffixEntries": [
+    {
+      "sourceSuffix": "\n\nWould you like to remove or replace this binding?",
+      "valueSuffix": "\n\n你想移除还是替换这条绑定？"
+    },
+    {
+      "sourceSuffix": "breaks <b>part connections</b>, may fail to initialize or break craft loading.",
+      "valueSuffix": "会破坏 <b>零件连接</b>，可能导致零件无法初始化或载具加载失败。"
+    },
+    {
+      "sourceSuffix": " complete.",
+      "valueSuffix": " 完成。"
+    }
+  ]
+}

@@ -1,0 +1,329 @@
+{
+  "page": "9x-partprops",
+  "entries": [
+    {
+      "key": "Add Control Surface",
+      "value": "添加操纵面"
+    },
+    {
+      "key": "Advanced",
+      "value": "高级"
+    },
+    {
+      "key": "Afterburner Unsupported",
+      "value": "不支持加力燃烧"
+    },
+    {
+      "key": "Airfoil",
+      "value": "翼型"
+    },
+    {
+      "key": "Auto Feather",
+      "value": "自动顺桨"
+    },
+    {
+      "key": "Auto Hinge Axis",
+      "value": "自动铰链轴"
+    },
+    {
+      "key": "Base Thickness",
+      "value": "根部厚度"
+    },
+    {
+      "key": "Bottom Offset",
+      "value": "底部偏移"
+    },
+    {
+      "key": "Bottom Width",
+      "value": "底部宽度"
+    },
+    {
+      "key": "Bounciness",
+      "value": "弹力"
+    },
+    {
+      "key": "Cable Deceleration",
+      "value": "线缆减速"
+    },
+    {
+      "key": "Catapult Compression",
+      "value": "弹射器压缩行程"
+    },
+    {
+      "key": "Collective Drag",
+      "value": "总距阻力"
+    },
+    {
+      "key": "Collective Torque",
+      "value": "总距扭矩"
+    },
+    {
+      "key": "Compressor Stages",
+      "value": "压气机级数"
+    },
+    {
+      "key": "Contra-Rotating",
+      "value": "对转"
+    },
+    {
+      "key": "Cyclic Motor Drag",
+      "value": "周期变距电机阻力"
+    },
+    {
+      "key": "Cyclic Pitch Expo",
+      "value": "周期变距俯仰指数"
+    },
+    {
+      "key": "Cyclic RPM Falloff Expo",
+      "value": "周期变距转速衰减指数"
+    },
+    {
+      "key": "Cyclic Roll Expo",
+      "value": "周期变距横滚指数"
+    },
+    {
+      "key": "Cyclic Strength",
+      "value": "周期变距强度"
+    },
+    {
+      "key": "Damper Scale",
+      "value": "阻尼系数"
+    },
+    {
+      "key": "Delay",
+      "value": "延迟"
+    },
+    {
+      "key": "Delete Control Surface",
+      "value": "删除操纵面"
+    },
+    {
+      "key": "Density",
+      "value": "密度"
+    },
+    {
+      "key": "Detach Direction",
+      "value": "分离方向"
+    },
+    {
+      "key": "Detach Force",
+      "value": "分离力"
+    },
+    {
+      "key": "Dimensions",
+      "value": "尺寸"
+    },
+    {
+      "key": "Door Style",
+      "value": "舱门样式"
+    },
+    {
+      "key": "Door Thickness",
+      "value": "舱门厚度"
+    },
+    {
+      "key": "Drag",
+      "value": "阻力"
+    },
+    {
+      "key": "Driven By",
+      "value": "驱动方式"
+    },
+    {
+      "key": "Edit Dihedral",
+      "value": "编辑上反角"
+    },
+    {
+      "key": "Edit Wing Shape",
+      "value": "编辑机翼形状"
+    },
+    {
+      "key": "Engine Direction",
+      "value": "引擎朝向"
+    },
+    {
+      "key": "Exhaust FX",
+      "value": "排气特效"
+    },
+    {
+      "key": "Fin Mode",
+      "value": "尾翼模式"
+    },
+    {
+      "key": "Firing Delay",
+      "value": "发射延迟"
+    },
+    {
+      "key": "Float",
+      "value": "浮力"
+    },
+    {
+      "key": "Friction",
+      "value": "摩擦力"
+    },
+    {
+      "key": "Ground Effect",
+      "value": "地面效应"
+    },
+    {
+      "key": "Growth",
+      "value": "增长幅度"
+    },
+    {
+      "key": "Gyroscopic Lag",
+      "value": "陀螺延迟"
+    },
+    {
+      "key": "Hide Glass",
+      "value": "隐藏玻璃"
+    },
+    {
+      "key": "Hinge Position 1",
+      "value": "铰链位置 1"
+    },
+    {
+      "key": "Hinge Position 2",
+      "value": "铰链位置 2"
+    },
+    {
+      "key": "Lifetime",
+      "value": "存续时间"
+    },
+    {
+      "key": "Parent Animator",
+      "value": "父级动画器"
+    },
+    {
+      "key": "Particle Size",
+      "value": "粒子大小"
+    },
+    {
+      "key": "Plume Tuning",
+      "value": "尾焰调校"
+    },
+    {
+      "key": "Pressure Ratio",
+      "value": "压比"
+    },
+    {
+      "key": "Primary Color",
+      "value": "主色"
+    },
+    {
+      "key": "Rated Torque",
+      "value": "额定扭矩"
+    },
+    {
+      "key": "Rel Wind - Peak Speed",
+      "value": "相对气流 - 峰值速度"
+    },
+    {
+      "key": "Rel Wind Lift",
+      "value": "相对气流升力"
+    },
+    {
+      "key": "Rel Wind Motor Torque",
+      "value": "相对气流电机扭矩"
+    },
+    {
+      "key": "Reverse Pitch",
+      "value": "反距"
+    },
+    {
+      "key": "Rotor Tensor",
+      "value": "旋翼惯量"
+    },
+    {
+      "key": "Secondary Color",
+      "value": "副色"
+    },
+    {
+      "key": "Secondary Strut",
+      "value": "次级支柱"
+    },
+    {
+      "key": "Shaft Power",
+      "value": "轴功率"
+    },
+    {
+      "key": "Smooth Back",
+      "value": "后缘平滑"
+    },
+    {
+      "key": "Smooth Front",
+      "value": "前缘平滑"
+    },
+    {
+      "key": "Spread",
+      "value": "扩散范围"
+    },
+    {
+      "key": "Spring Force Scale",
+      "value": "弹簧力系数"
+    },
+    {
+      "key": "Spring Strength",
+      "value": "弹簧强度"
+    },
+    {
+      "key": "Start Open",
+      "value": "初始开启"
+    },
+    {
+      "key": "Support Strut",
+      "value": "支撑支柱"
+    },
+    {
+      "key": "Tertiary Strut",
+      "value": "三级支柱"
+    },
+    {
+      "key": "Tip Thickness",
+      "value": "翼尖厚度"
+    },
+    {
+      "key": "Top Offset",
+      "value": "顶部偏移"
+    },
+    {
+      "key": "Top Width",
+      "value": "顶部宽度"
+    },
+    {
+      "key": "Torque Link",
+      "value": "扭矩连杆"
+    },
+    {
+      "key": "Torque Link Length",
+      "value": "扭矩连杆长度"
+    },
+    {
+      "key": "Translational Lift",
+      "value": "平移升力"
+    },
+    {
+      "key": "Trim Size",
+      "value": "配平片尺寸"
+    },
+    {
+      "key": "Turbine Temp",
+      "value": "涡轮温度"
+    },
+    {
+      "key": "Turbine Tuning",
+      "value": "涡轮调校"
+    },
+    {
+      "key": "Upgrade to New Fuselage (Experimental)",
+      "value": "升级到新机身（实验性）"
+    },
+    {
+      "key": "Wheel Assembly Style",
+      "value": "轮组形式"
+    },
+    {
+      "key": "Wheel Offset",
+      "value": "轮组偏移"
+    }
+  ]
+}

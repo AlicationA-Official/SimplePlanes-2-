@@ -20,9 +20,15 @@ import os
 WS = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = os.path.join(WS, 'dl', 'localization', 'zh-CN.json')
 ENTRY_FILES = ['gap_fill_entries.json', 'gap_fill_entries2.json', 'gap_fill_entries3.json',
-               'gap_fill_entries4.json', 'gap_fill_shortcuts.json', 'gap_fill_parts.json']
+               'gap_fill_entries4.json', 'gap_fill_shortcuts.json', 'gap_fill_parts.json',
+               'gap_fill_bindprompt.json', 'gap_fill_partprops.json',
+               'gap_fill_parttips.json', 'gap_fill_tutorial.json', 'gap_fill_capture.json',
+               'gap_fill_overload.json', 'gap_fill_options.json']
 CTX_FILE = 'gap_fill_context.json'
 DYN_FILE = 'gap_fill_dynamic.json'
+DYN_SUFFIX_FILE = 'gap_fill_dynamic_suffix.json'
+PARTPREFIX_FILE = 'gap_fill_partname_prefix.json'
+REMOVALS_FILE = 'removals.json'
 ALLOW_FILE = 'allow_context_dupes.json'
 OUT_JSON = os.path.join(WS, 'patch', 'zh-CN.json')
 FRAG_DIR = os.path.join(WS, 'patch', 'fragments')
@@ -57,6 +63,12 @@ def main():
     merged = dict(base)
     merged['entries'] = dict(list(entries.items()) + sorted(added.items()))
 
+    # 移除：游戏会拿控件的“显示文本”做逻辑比较的字符串，翻译后会破坏功能，必须保持原文
+    removals = load(os.path.join(WS, 'patch', REMOVALS_FILE), [])
+    removed = [k for k in removals if k in merged['entries']]
+    for k in removed:
+        del merged['entries'][k]
+
     # context entries
     ctx_base = list(base.get('contextEntries', []))
     seen_ctx = {(e.get('key'), e.get('sceneName'), e.get('gameObjectPathContains')) for e in ctx_base}
@@ -70,11 +82,25 @@ def main():
     merged['contextEntries'] = ctx_base + ctx_added
 
     # dynamic prefix rules
+    # 注意顺序：插件取"第一个匹配"的前缀规则，所以零件名这类长前缀要排在通用前缀之前
     dyn = load(os.path.join(WS, 'patch', DYN_FILE), {})
     pre_base = list(base.get('dynamicPrefixEntries', []))
     seen_pre = {e.get('sourcePrefix') for e in pre_base}
-    pre_added = [e for e in dyn.get('dynamicPrefixEntries', []) if e.get('sourcePrefix') not in seen_pre]
+    pre_added = []
+    for src in (PARTPREFIX_FILE, DYN_FILE):
+        for e in load(os.path.join(WS, 'patch', src), {}).get('dynamicPrefixEntries', []):
+            if e.get('sourcePrefix') in seen_pre:
+                continue
+            seen_pre.add(e.get('sourcePrefix'))
+            pre_added.append(e)
     merged['dynamicPrefixEntries'] = pre_base + pre_added
+
+    # dynamic suffix rules
+    dyn_suffix = load(os.path.join(WS, 'patch', DYN_SUFFIX_FILE), {})
+    suf_base = list(base.get('dynamicSuffixEntries', []))
+    seen_suf = {e.get('sourceSuffix') for e in suf_base}
+    suf_added = [e for e in dyn_suffix.get('dynamicSuffixEntries', []) if e.get('sourceSuffix') not in seen_suf]
+    merged['dynamicSuffixEntries'] = suf_base + suf_added
 
     os.makedirs(FRAG_DIR, exist_ok=True)
     with open(OUT_JSON, 'w', encoding='utf-8-sig' if has_bom else 'utf-8', newline='\n') as f:
@@ -95,6 +121,15 @@ def main():
         with open(os.path.join(FRAG_DIR, '9x-dynamic-prefix.json'), 'w', encoding='utf-8', newline='\n') as f:
             json.dump({'page': '9x-dynamic-prefix', 'dynamicPrefixEntries': pre_added}, f,
                       ensure_ascii=False, indent=2)
+    if suf_added:
+        with open(os.path.join(FRAG_DIR, '9x-dynamic-suffix.json'), 'w', encoding='utf-8', newline='\n') as f:
+            json.dump({'page': '9x-dynamic-suffix', 'dynamicSuffixEntries': suf_added}, f,
+                      ensure_ascii=False, indent=2)
+    if removed:
+        with open(os.path.join(FRAG_DIR, '9x-removed-keys.json'), 'w', encoding='utf-8', newline='\n') as f:
+            json.dump({'page': '9x-removed-keys',
+                       'note': '这些字符串被游戏用做逻辑比较，翻译后会破坏功能，故从词表中移除',
+                       'removed': sorted(removed)}, f, ensure_ascii=False, indent=2)
 
     total = (len(merged['entries']) + len(merged['contextEntries'])
              + len(merged.get('dynamicSuffixEntries', [])) + len(merged.get('dynamicPrefixEntries', [])))
@@ -102,12 +137,15 @@ def main():
     print('added entries         : %d' % len(added))
     print('added context entries : %d' % len(ctx_added))
     print('added prefix rules    : %d' % len(pre_added))
+    print('added suffix rules    : %d' % len(suf_added))
+    print('removed (text-compared): %d %s' % (len(removed), removed))
     print('skipped (dup entries) : %d' % len(skipped_dup))
     print('skipped (in context)  : %d %s' % (len(skipped_ctx), skipped_ctx))
     print('---')
     print('entries               : %d' % len(merged['entries']))
     print('contextEntries        : %d' % len(merged['contextEntries']))
     print('dynamicPrefixEntries  : %d' % len(merged['dynamicPrefixEntries']))
+    print('dynamicSuffixEntries  : %d' % len(merged['dynamicSuffixEntries']))
     print('total loadable        : %d' % total)
     print('written               : %s' % OUT_JSON)
 

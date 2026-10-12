@@ -1,0 +1,221 @@
+{
+  "page": "9x-parttips",
+  "entries": [
+    {
+      "key": "Adds a launch bar that swings down to connect to an aircraft carrier catapult.",
+      "value": "增加一根可向下摆出、用于连接航母弹射器的弹射杆。"
+    },
+    {
+      "key": "Adds a second set of blades spinning the opposite way.",
+      "value": "增加一组反向旋转的桨叶。"
+    },
+    {
+      "key": "Adjusts the maximum output RPM. Power stays constant, so lower RPM means more torque.",
+      "value": "调整最大输出转速。功率不变，因此转速越低扭矩越大。"
+    },
+    {
+      "key": "Blade pitch can be fixed, hold a constant RPM automatically, or follow an input controller.",
+      "value": "桨距可以固定、自动保持恒定转速，或跟随输入控制器。"
+    },
+    {
+      "key": "Changes how many are duplicated around the missile.",
+      "value": "改变导弹周围复制出的数量。"
+    },
+    {
+      "key": "Changes the length of the nozzle. Does not affect performance.",
+      "value": "改变尾喷口长度，不影响性能。"
+    },
+    {
+      "key": "Changes the length of the shroud.",
+      "value": "改变整流罩长度。"
+    },
+    {
+      "key": "Controls the order in which decals are rendered when they are overlapping",
+      "value": "控制贴花重叠时的渲染顺序"
+    },
+    {
+      "key": "Determines which parts are affected.",
+      "value": "决定受影响的零件。"
+    },
+    {
+      "key": "Engine vents whatever the selected engine is burning. Input drives the plume from any input or expression.",
+      "value": "排气管排放所选发动机正在燃烧的产物。输入可用任意输入或表达式驱动尾焰。"
+    },
+    {
+      "key": "Flips the assembly's layout. The exact behavior depends on the selected wheel-assembly style.",
+      "value": "翻转轮组布局。具体效果取决于所选的轮组形式。"
+    },
+    {
+      "key": "Flips the gear leg to the other side.",
+      "value": "把起落架支柱翻到另一侧。"
+    },
+    {
+      "key": "How big each particle is.",
+      "value": "每个粒子的大小。"
+    },
+    {
+      "key": "How far past flat the blades turn at full reverse input. Zero disables reverse thrust.",
+      "value": "反推输入拉满时桨叶越过零距的角度。设为 0 则禁用反推。"
+    },
+    {
+      "key": "How hard the gas shoots out of the pipe.",
+      "value": "气体喷出管口的力度。"
+    },
+    {
+      "key": "How long particles last before fading.",
+      "value": "粒子从出现到消失的持续时间。"
+    },
+    {
+      "key": "How many particles the plume emits. Turn it up for thick smoke, down for a thin haze.",
+      "value": "尾焰喷出的粒子数量。调高是浓烟，调低是薄雾。"
+    },
+    {
+      "key": "How much the plume billows out as it trails away.",
+      "value": "尾焰拖远时扩散的程度。"
+    },
+    {
+      "key": "How quickly the air slows the plume down.",
+      "value": "空气让尾焰减速的快慢。"
+    },
+    {
+      "key": "How strongly the effect shows.",
+      "value": "效果的明显程度。"
+    },
+    {
+      "key": "How wide the plume opens up.",
+      "value": "尾焰张开的宽度。"
+    },
+    {
+      "key": "It greatly increases the power of the engine but it decreases efficiency.",
+      "value": "大幅提升发动机功率，但会降低效率。"
+    },
+    {
+      "key": "Links this animator under another so they share one timeline.",
+      "value": "把这个动画器挂到另一个之下，使它们共用一条时间轴。"
+    },
+    {
+      "key": "More blades give more thrust at the same RPM, but more drag and mass to spin.",
+      "value": "相同转速下桨叶越多推力越大，但阻力与转动惯量也更大。"
+    },
+    {
+      "key": "More stages improve fuel efficiency and power, but add length and mass.",
+      "value": "级数越多，燃油效率与功率越高，但长度与质量也会增加。"
+    },
+    {
+      "key": "Positive floats the plume upwards like hot smoke, negative lets it fall.",
+      "value": "正值让尾焰像热烟一样上浮，负值则下沉。"
+    },
+    {
+      "key": "Pushes the plume out of the pipe or pulls it back in.",
+      "value": "把尾焰推出管外或吸回管内。"
+    },
+    {
+      "key": "Reduces the turning angle as speed increases.",
+      "value": "速度越快，转向角度越小。"
+    },
+    {
+      "key": "Reverses the direction of the spin.",
+      "value": "反转旋转方向。"
+    },
+    {
+      "key": "Reverses the spin direction and flips the blades to match.",
+      "value": "反转旋转方向并相应翻转桨叶。"
+    },
+    {
+      "key": "Running hotter produces more power from the same engine, at the cost of heavier alloys and cooling.",
+      "value": "温度越高，同一台发动机功率越大，但需要更重的合金与冷却系统。"
+    },
+    {
+      "key": "Select the engine inside of this shroud.",
+      "value": "选择这个整流罩内部的发动机。"
+    },
+    {
+      "key": "Selects which support strut is mounted here, or None.",
+      "value": "选择此处安装哪根支撑支柱，或选“无”。"
+    },
+    {
+      "key": "Selects which torque link is mounted, or None.",
+      "value": "选择安装哪种扭矩连杆，或选“无”。"
+    },
+    {
+      "key": "Stretches the shroud horizontally.",
+      "value": "水平拉伸整流罩。"
+    },
+    {
+      "key": "Stretches the shroud vertically.",
+      "value": "垂直拉伸整流罩。"
+    },
+    {
+      "key": "The blade angle in Fixed mode, or the governor's coarse pitch limit in Auto mode.",
+      "value": "固定模式下的桨叶角度，或自动模式下调速器的最大桨距限制。"
+    },
+    {
+      "key": "The color of the base of the afterburner, for fun.",
+      "value": "加力燃烧室根部的颜色，纯属好玩。"
+    },
+    {
+      "key": "The color of the tip of the afterburner, also for fun.",
+      "value": "加力燃烧室尖端的颜色，也是纯属好玩。"
+    },
+    {
+      "key": "The engine whose exhaust this pipe vents. Set automatically when attached to an engine, and kept if moved.",
+      "value": "这根排气管所排放的发动机。连接到发动机时会自动设置，移动后仍会保留。"
+    },
+    {
+      "key": "The engine's rated power at sea level. Power falls off with altitude as the air thins.",
+      "value": "发动机在海平面的额定功率。随高度上升、空气稀薄，功率会下降。"
+    },
+    {
+      "key": "The maximum range the nozzle can gimbal.",
+      "value": "尾喷口可偏转的最大角度。"
+    },
+    {
+      "key": "The other colour particles are picked between. Pull the two apart to give smoke more variation.",
+      "value": "粒子颜色在两者之间取值。两种颜色差别越大，烟雾的变化越丰富。"
+    },
+    {
+      "key": "The overall compression of the intake air and the resulting fuel efficiency.",
+      "value": "进气总压缩比及其带来的燃油效率。"
+    },
+    {
+      "key": "The overall size of the pipe.",
+      "value": "排气管的整体尺寸。"
+    },
+    {
+      "key": "The particles this pipe emits.",
+      "value": "这根排气管喷出的粒子。"
+    },
+    {
+      "key": "The position of the shock. Purely cosmetic.",
+      "value": "激波的位置，纯属外观。"
+    },
+    {
+      "key": "The rate at which the nozzle gimbals",
+      "value": "尾喷口的偏转速率"
+    },
+    {
+      "key": "The selected nozzle does not support afterburner.",
+      "value": "所选的尾喷口不支持加力燃烧。"
+    },
+    {
+      "key": "The style of the pipe.",
+      "value": "排气管的样式。"
+    },
+    {
+      "key": "The torque delivered at governed RPM. A free turbine delivers up to double this from a standstill.",
+      "value": "调速转速下输出的扭矩。自由涡轮在静止时可输出最多两倍于此的扭矩。"
+    },
+    {
+      "key": "This is the throttle at which the afterburner will kick in.",
+      "value": "加力燃烧开始介入的油门位置。"
+    },
+    {
+      "key": "Tints the particles. White is default, and the alpha thins the plume out.",
+      "value": "给粒子着色。默认白色，透明度越低尾焰越淡。"
+    },
+    {
+      "key": "Turns the blades edge-on to the airflow when the engine stops.",
+      "value": "发动机停车时让桨叶转至与气流平行。"
+    }
+  ]
+}
